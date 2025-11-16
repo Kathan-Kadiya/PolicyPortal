@@ -1,0 +1,652 @@
+[
+  {
+    "openDate": "2012-06-18",
+    "closeDate": null,
+    "state": "Uttar Pradesh",
+    "nodalMinistryName": "Ministry of Tourism",
+    "schemeName": "Tourism Support Scheme 1",
+    "schemeShortTitle": "TSS1",
+    "tags": [
+      "tourism",
+      "renewable",
+      "clean-water"
+    ],
+    "level": "State",
+    "schemeCategory": [
+      "Tourism"
+    ],
+    "references": [
+      {
+        "title": "Tourism Support Scheme 1 official",
+        "url": "https://gov.in/schemes/1"
+      }
+    ],
+    "detailedDescription_md": "Tourism Support Scheme 1 aims to provide support and services under the category Tourism. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2014-12-10",
+    "closeDate": null,
+    "state": "Andhra Pradesh",
+    "nodalMinistryName": "Ministry of Labour and Employment",
+    "schemeName": "Employment Support Scheme 2",
+    "schemeShortTitle": "ESS2",
+    "tags": [
+      "employment",
+      "training",
+      "skill"
+    ],
+    "level": "State/ UT",
+    "schemeCategory": [
+      "Employment"
+    ],
+    "references": [
+      {
+        "title": "Employment Support Scheme 2 official",
+        "url": "https://gov.in/schemes/2"
+      }
+    ],
+    "detailedDescription_md": "Employment Support Scheme 2 aims to provide support and services under the category Employment. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2014-05-28",
+    "closeDate": null,
+    "state": "Karnataka",
+    "nodalMinistryName": "Ministry of Women and Child Development",
+    "schemeName": "Women Empowerment Support Scheme 3",
+    "schemeShortTitle": "WESS3",
+    "tags": [
+      "women",
+      "sanitation",
+      "nutrition"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Women Empowerment"
+    ],
+    "references": [
+      {
+        "title": "Women Empowerment Support Scheme 3 official",
+        "url": "https://gov.in/schemes/3"
+      }
+    ],
+    "detailedDescription_md": "Women Empowerment Support Scheme 3 aims to provide support and services under the category Women Empowerment. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2018-09-16",
+    "closeDate": null,
+    "state": "All India",
+    "nodalMinistryName": "Ministry of Education",
+    "schemeName": "Education Support Scheme 4",
+    "schemeShortTitle": "ESS4",
+    "tags": [
+      "education",
+      "training",
+      "skill"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Education"
+    ],
+    "references": [
+      {
+        "title": "Education Support Scheme 4 official",
+        "url": "https://gov.in/schemes/4"
+      }
+    ],
+    "detailedDescription_md": "Education Support Scheme 4 aims to provide support and services under the category Education. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2019-02-13",
+    "closeDate": null,
+    "state": "Maharashtra",
+    "nodalMinistryName": "Ministry of Agriculture & Farmers Welfare",
+    "schemeName": "Agriculture Support Scheme 5",
+    "schemeShortTitle": "AgSS5",
+    "tags": [
+      "farmers",
+      "subsidy",
+      "seed"
+    ],
+    "level": "State",
+    "schemeCategory": [
+      "Agriculture"
+    ],
+    "references": [
+      {
+        "title": "Agriculture Support Scheme 5 official",
+        "url": "https://gov.in/schemes/5"
+      }
+    ],
+    "detailedDescription_md": "Agriculture Support Scheme 5 aims to provide support and services under the category Agriculture. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2018-02-07",
+    "closeDate": null,
+    "state": "Gujarat",
+    "nodalMinistryName": "Ministry of Housing and Urban Affairs",
+    "schemeName": "Housing Support Scheme 6",
+    "schemeShortTitle": "HSS6",
+    "tags": [
+      "housing",
+      "sanitation",
+      "loan"
+    ],
+    "level": "State/ UT",
+    "schemeCategory": [
+      "Housing"
+    ],
+    "references": [
+      {
+        "title": "Housing Support Scheme 6 official",
+        "url": "https://gov.in/schemes/6"
+      }
+    ],
+    "detailedDescription_md": "Housing Support Scheme 6 aims to provide support and services under the category Housing. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2014-11-18",
+    "closeDate": null,
+    "state": "Punjab",
+    "nodalMinistryName": "Ministry of Health and Family Welfare",
+    "schemeName": "Health Support Scheme 7",
+    "schemeShortTitle": "HSS7",
+    "tags": [
+      "health",
+      "nutrition",
+      "insurance"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Health"
+    ],
+    "references": [
+      {
+        "title": "Health Support Scheme 7 official",
+        "url": "https://gov.in/schemes/7"
+      }
+    ],
+    "detailedDescription_md": "Health Support Scheme 7 aims to provide support and services under the category Health. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2007-01-13",
+    "closeDate": null,
+    "state": "Kerala",
+    "nodalMinistryName": "Ministry of Social Justice and Empowerment",
+    "schemeName": "Social Welfare Support Scheme 8",
+    "schemeShortTitle": "SWSS8",
+    "tags": [
+      "pension",
+      "social",
+      "welfare"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Social Welfare"
+    ],
+    "references": [
+      {
+        "title": "Social Welfare Support Scheme 8 official",
+        "url": "https://gov.in/schemes/8"
+      }
+    ],
+    "detailedDescription_md": "Social Welfare Support Scheme 8 aims to provide support and services under the category Social Welfare. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2011-11-16",
+    "closeDate": null,
+    "state": "Rajasthan",
+    "nodalMinistryName": "Ministry of Micro, Small & Medium Enterprises",
+    "schemeName": "MSME Support Scheme 9",
+    "schemeShortTitle": "MSMES9",
+    "tags": [
+      "startup",
+      "microloan",
+      "credit"
+    ],
+    "level": "State",
+    "schemeCategory": [
+      "MSME"
+    ],
+    "references": [
+      {
+        "title": "MSME Support Scheme 9 official",
+        "url": "https://gov.in/schemes/9"
+      }
+    ],
+    "detailedDescription_md": "MSME Support Scheme 9 aims to provide support and services under the category MSME. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "openDate": "2017-04-27",
+    "closeDate": null,
+    "state": "Haryana",
+    "nodalMinistryName": "Ministry of Environment, Forest and Climate Change",
+    "schemeName": "Environment Support Scheme 10",
+    "schemeShortTitle": "ESS10",
+    "tags": [
+      "environment",
+      "renewable",
+      "clean-water"
+    ],
+    "level": "State/ UT",
+    "schemeCategory": [
+      "Environment"
+    ],
+    "references": [
+      {
+        "title": "Environment Support Scheme 10 official",
+        "url": "https://gov.in/schemes/10"
+      }
+    ],
+    "detailedDescription_md": "Environment Support Scheme 10 aims to provide support and services under the category Environment. This scheme targets beneficiaries across states and focuses on outcomes like improved access, livelihood, and welfare.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the portal"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit required documents"
+      }
+    ],
+    "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Direct Benefit",
+        "details": "Cash transfer or subsidy"
+      },
+      {
+        "name": "Support",
+        "details": "Training and capacity building"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Eligible citizens as defined by scheme guidelines."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Through the official portal."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": ""
+      },
+      {
+        "name": "Address proof",
+        "url": ""
+      }
+    ]
+  }
+]
