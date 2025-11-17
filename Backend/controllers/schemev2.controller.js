@@ -56,123 +56,248 @@ const getSchemeByCategory = async (req, res) => {
     }
 };
 
-const getFilteredSchemes = async (req, res) => {
-    try {
-        const { page = 1, limit = 9 } = req.query;
-        const {
-            search, openDate, closeDate, state, nodalMinistryName, level,
-            category, tags, schemeName
-        } = req.query;
+// const getFilteredSchemes = async (req, res) => {
+//     try {
+//         const { page = 1, limit = 9 } = req.query;
+//         const {
+//             search, openDate, closeDate, state, nodalMinistryName, level,
+//             category, tags, schemeName
+//         } = req.query;
 
-        // Prepare the filter object
-        const filter = {};
+//         // Prepare the filter object
+//         const filter = {};
 
-        // Apply search filter to multiple fields
-        if (search) {
-            const searchConditions = [];
+//         // Apply search filter to multiple fields
+//         if (search) {
+//             const searchConditions = [];
 
-            // Check if search term is in 'state' (exact match)
-            searchConditions.push({ state: { $eq: search } });
+//             // Check if search term is in 'state' (exact match)
+//             searchConditions.push({ state: { $eq: search } });
 
-            // Check if search term is in 'nodalMinistryName' (partial match using regex)
-            searchConditions.push({ nodalMinistryName: { $regex: search, $options: 'i' } });
+//             // Check if search term is in 'nodalMinistryName' (partial match using regex)
+//             searchConditions.push({ nodalMinistryName: { $regex: search, $options: 'i' } });
 
-            // Check if search term is in 'schemeName' (partial match using regex)
-            searchConditions.push({ schemeName: { $regex: search, $options: 'i' } });
+//             // Check if search term is in 'schemeName' (partial match using regex)
+//             searchConditions.push({ schemeName: { $regex: search, $options: 'i' } });
 
-            // Check if search term is in 'tags' array (exact match)
-            searchConditions.push({ tags: { $in: [search] } });
+//             // Check if search term is in 'tags' array (exact match)
+//             searchConditions.push({ tags: { $in: [search] } });
 
-            // Check if search term is in 'level' (exact match)
-            searchConditions.push({ level: { $eq: search } });
+//             // Check if search term is in 'level' (exact match)
+//             searchConditions.push({ level: { $eq: search } });
 
-            // Check if search term is in 'Category' array (partial match using regex)
-            searchConditions.push({ Category: { $regex: search, $options: 'i' } });
+//             // Check if search term is in 'Category' array (partial match using regex)
+//             searchConditions.push({ Category: { $regex: search, $options: 'i' } });
 
-            // Check if search term is in 'detailedDescription_md' (partial match)
-            searchConditions.push({ detailedDescription_md: { $regex: search, $options: 'i' } });  // Case-insensitive
+//             // Check if search term is in 'detailedDescription_md' (partial match)
+//             searchConditions.push({ detailedDescription_md: { $regex: search, $options: 'i' } });  // Case-insensitive
 
-            // Combine all the conditions using $or
-            filter.$or = searchConditions;
-        }
+//             // Combine all the conditions using $or
+//             filter.$or = searchConditions;
+//         }
 
-        // Handle date range filters for openDate and closeDate
-        if (openDate || closeDate) {
-            const dateConditions = [];
+//         // Handle date range filters for openDate and closeDate
+//         if (openDate || closeDate) {
+//             const dateConditions = [];
 
-            if (openDate) {
-                dateConditions.push({ openDate: { $gte: new Date(openDate) } });
-            }
+//             if (openDate) {
+//                 dateConditions.push({ openDate: { $gte: new Date(openDate) } });
+//             }
 
-            if (closeDate) {
-                dateConditions.push({ closeDate: { $lte: new Date(closeDate) } });
-            }
+//             if (closeDate) {
+//                 dateConditions.push({ closeDate: { $lte: new Date(closeDate) } });
+//             }
 
-            // Add conditions where openDate or closeDate are null
-            dateConditions.push({ openDate: { $eq: null } });
-            dateConditions.push({ closeDate: { $eq: null } });
+//             // Add conditions where openDate or closeDate are null
+//             dateConditions.push({ openDate: { $eq: null } });
+//             dateConditions.push({ closeDate: { $eq: null } });
 
-            filter.$or = dateConditions;
-        }
+//             filter.$or = dateConditions;
+//         }
 
-        // Filter by state
-        if (state) {
-            filter.state = state;
-        }
+//         // Filter by state
+//         if (state) {
+//             filter.state = state;
+//         }
 
-        // Filter by nodalMinistryName
-        if (nodalMinistryName) {
-            filter.nodalMinistryName = nodalMinistryName;
-        }
+//         // Filter by nodalMinistryName
+//         if (nodalMinistryName) {
+//             filter.nodalMinistryName = nodalMinistryName;
+//         }
 
-        // Filter by level
-        if (level) {
-            filter.level = level;
-        }
+//         // Filter by level
+//         if (level) {
+//             filter.level = level;
+//         }
 
-        // Filter by category (assuming it's an array of categories)
-        if (category) {
-            const categoriesArray = category.split(','); // assuming categories are passed as a comma-separated string
-            filter.category = { $in: categoriesArray };
-        }
+//         // Filter by category (assuming it's an array of categories)
+//         if (category) {
+//             const categoriesArray = category.split(','); // assuming categories are passed as a comma-separated string
+//             filter.category = { $in: categoriesArray };
+//         }
 
-        // Filter by tags (assuming it's an array of tags)
-        if (tags) {
-            const tagsArray = tags.split(','); // assuming tags are passed as a comma-separated string
-            filter.tags = { $in: tagsArray };
-        }
+//         // Filter by tags (assuming it's an array of tags)
+//         if (tags) {
+//             const tagsArray = tags.split(','); // assuming tags are passed as a comma-separated string
+//             filter.tags = { $in: tagsArray };
+//         }
 
-        // Filter by schemeName (case-insensitive)
-        if (schemeName) {
-            filter.$or = filter.$or || []; // Ensure the $or array exists
+//         // Filter by schemeName (case-insensitive)
+//         if (schemeName) {
+//             filter.$or = filter.$or || []; // Ensure the $or array exists
 
-            // Case-insensitive match for schemeName
-            filter.$or.push({ schemeName: { $regex: schemeName, $options: 'i' } });
+//             // Case-insensitive match for schemeName
+//             filter.$or.push({ schemeName: { $regex: schemeName, $options: 'i' } });
 
-            // Case-insensitive match for schemeShortTitle
-            filter.$or.push({ schemeShortTitle: { $regex: schemeName, $options: 'i' } });
-        }
+//             // Case-insensitive match for schemeShortTitle
+//             filter.$or.push({ schemeShortTitle: { $regex: schemeName, $options: 'i' } });
+//         }
 
-        const options = {
-            page: parseInt(page),
-            limit: parseInt(limit),
-            sort: { createdAt: -1 }
-        };
+//         const options = {
+//             page: parseInt(page),
+//             limit: parseInt(limit),
+//             sort: { createdAt: -1 }
+//         };
 
-        const schemes = await Schemev2.paginate(filter, options);
-        res.status(200).json({
-            schemes: schemes.docs,
-            totalPages: schemes.totalPages,
-            currentPage: schemes.page,
-            totalSchemes: schemes.totalDocs
-        });
-    } catch (err) {
-        console.error(err);
-        res.status(500).json({ message: "Error retrieving filtered schemes", error: err });
-    }
-};
+//         const schemes = await Schemev2.paginate(filter, options);
+//         res.status(200).json({
+//             schemes: schemes.docs,
+//             totalPages: schemes.totalPages,
+//             currentPage: schemes.page,
+//             totalSchemes: schemes.totalDocs
+//         });
+//     } catch (err) {
+//         console.error(err);
+//         res.status(500).json({ message: "Error retrieving filtered schemes", error: err });
+//     }
+// };
 
 // save favorite schemes
+
+const getFilteredSchemes = async (req, res) => {
+  try {
+    const { page = 1, limit = 9 } = req.query;
+    const {
+      search, openDate, closeDate, state, nodalMinistryName, level,
+      category, tags, schemeName
+    } = req.query;
+
+    // Build an array of AND conditions; each item may contain $or or direct equality
+    const andConditions = [];
+
+    // 1) Search term across multiple fields (build $or)
+    if (search) {
+      const q = search.trim();
+      const searchOr = [
+        { state: { $eq: q } }, // exact state match
+        // nodalMinistryName could be a string or object like { label: "..." }
+        { nodalMinistryName: { $regex: q, $options: 'i' } },
+        { 'nodalMinistryName.label': { $regex: q, $options: 'i' } },
+        { schemeName: { $regex: q, $options: 'i' } },
+        { schemeShortTitle: { $regex: q, $options: 'i' } },
+        { tags: { $in: [q] } },
+        { level: { $eq: q } },
+        { detailedDescription_md: { $regex: q, $options: 'i' } },
+        // schemeCategory is an array; allow partial match on label-like strings:
+        { schemeCategory: { $regex: q, $options: 'i' } }
+      ];
+      andConditions.push({ $or: searchOr });
+    }
+
+    // 2) Date filters — treat openDate and closeDate separately; include nulls if needed
+    // If user provided openDate, we want schemes whose openDate >= openDate OR openDate is null.
+    if (openDate) {
+      const date = new Date(openDate);
+      andConditions.push({
+        $or: [
+          { openDate: { $gte: date } },
+          { openDate: null }
+        ]
+      });
+    }
+
+    // If user provided closeDate, we want schemes whose closeDate <= closeDate OR closeDate is null.
+    if (closeDate) {
+      const date = new Date(closeDate);
+      andConditions.push({
+        $or: [
+          { closeDate: { $lte: date } },
+          { closeDate: null }
+        ]
+      });
+    }
+
+    // 3) Simple equality filters (state, level)
+    if (state) {
+      andConditions.push({ state: state });
+    }
+
+    if (level) {
+      andConditions.push({ level: level });
+    }
+
+    // 4) nodalMinistryName filter — support string matching against either string or object.label
+    if (nodalMinistryName) {
+      const nm = nodalMinistryName.trim();
+      andConditions.push({
+        $or: [
+          { nodalMinistryName: nm },
+          { nodalMinistryName: { $regex: nm, $options: 'i' } },
+          { 'nodalMinistryName.label': { $regex: nm, $options: 'i' } }
+        ]
+      });
+    }
+
+    // 5) category (frontend sends 'category' param) -> DB field is schemeCategory (array)
+    if (category) {
+      // allow both comma-separated or single value
+      const categoriesArray = Array.isArray(category) ? category : category.split(',').map(c => c.trim()).filter(Boolean);
+      andConditions.push({ schemeCategory: { $in: categoriesArray } });
+    }
+
+    // 6) tags (comma separated)
+    if (tags) {
+      const tagsArray = Array.isArray(tags) ? tags : tags.split(',').map(t => t.trim()).filter(Boolean);
+      andConditions.push({ tags: { $in: tagsArray } });
+    }
+
+    // 7) schemeName filter — partial match across schemeName and schemeShortTitle
+    if (schemeName) {
+      const s = schemeName.trim();
+      andConditions.push({
+        $or: [
+          { schemeName: { $regex: s, $options: 'i' } },
+          { schemeShortTitle: { $regex: s, $options: 'i' } }
+        ]
+      });
+    }
+
+    // Final filter object
+    const filter = andConditions.length > 0 ? { $and: andConditions } : {};
+
+    // Debug: uncomment while testing to log the filter
+    // console.log('Filter used for getFilteredSchemes:', JSON.stringify(filter, null, 2));
+
+    const options = {
+      page: parseInt(page, 10),
+      limit: parseInt(limit, 10),
+      sort: { createdAt: -1 }
+    };
+
+    const schemes = await Schemev2.paginate(filter, options);
+
+    res.status(200).json({
+      schemes: schemes.docs,
+      totalPages: schemes.totalPages,
+      currentPage: schemes.page,
+      totalSchemes: schemes.totalDocs
+    });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ message: "Error retrieving filtered schemes", error: err.message || err });
+  }
+};
+
 
 const saveFavoriteSchemes = async (req, res) => {
     try {
