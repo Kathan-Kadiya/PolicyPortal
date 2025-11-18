@@ -1,5 +1,5 @@
 [
-  {
+{
     "openDate": "2012-06-18",
     "closeDate": null,
     "state": "Uttar Pradesh",
@@ -25,45 +25,48 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Check scheme guidance and eligibility on the official scheme page and the state tourism department site.",
+        "url": "https://gov.in/schemes/1"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Register or apply through the Uttar Pradesh tourism portal (or state nodal agency) and submit required documents.",
+        "url": "https://uptourism.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Direct financial support",
+        "details": "Subsidy or grant for tourism-related micro-enterprises and service providers to improve livelihoods and infrastructure."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Capacity building",
+        "details": "Training, marketing support and linkages to boost local tourism services."
       }
     ],
     "faqs": [
       {
         "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "answer": "Local tourism entrepreneurs, homestay owners and micro-enterprises meeting state eligibility criteria; check the state tourism nodal office for details."
       },
       {
         "question": "How to apply?",
-        "answer": "Through the official portal."
+        "answer": "Apply via the state tourism department portal or contact the district tourism office. See the official guidance at https://gov.in/schemes/1."
       }
     ],
     "documents_required": [
       {
         "name": "Identity proof",
-        "url": ""
+        "url": "https://gov.in/schemes/1"
       },
       {
-        "name": "Address proof",
-        "url": ""
+        "name": "Business/registration proof (if applicable)",
+        "url": "https://gov.in/schemes/1"
       }
     ]
   },
+
   {
     "openDate": "2014-12-10",
     "closeDate": null,
@@ -90,45 +93,48 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Check eligibility and scheme details on the official portal.",
+        "url": "https://gov.in/schemes/2"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Register and apply through the Andhra Pradesh employment/training portal or district employment office.",
+        "url": "https://www.ap.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Employment support",
+        "details": "Placement assistance, short-term wage support and on-the-job training for eligible candidates."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Skill training",
+        "details": "Access to training courses and certification to improve employability."
       }
     ],
     "faqs": [
       {
         "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "answer": "Job seekers and eligible youth as defined by scheme guidelines. Check the state employment office for age/qualification criteria."
       },
       {
         "question": "How to apply?",
-        "answer": "Through the official portal."
+        "answer": "Apply via the state employment portal or visit the district employment exchange. See https://gov.in/schemes/2 for guidance."
       }
     ],
     "documents_required": [
       {
         "name": "Identity proof",
-        "url": ""
+        "url": "https://gov.in/schemes/2"
       },
       {
-        "name": "Address proof",
-        "url": ""
+        "name": "Educational/skill certificates",
+        "url": "https://gov.in/schemes/2"
       }
     ]
   },
+
   {
     "openDate": "2014-05-28",
     "closeDate": null,
@@ -155,45 +161,48 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Review scheme guidelines and eligibility on the official portal.",
+        "url": "https://gov.in/schemes/3"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Apply through the state women and child development department or district welfare office.",
+        "url": "https://wcd.nic.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Financial assistance",
+        "details": "Cash assistance or subsidy for women-led enterprises and welfare initiatives."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Capacity building",
+        "details": "Training programs for skill development, entrepreneurship and sanitation awareness."
       }
     ],
     "faqs": [
       {
         "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "answer": "Women meeting the scheme's eligibility criteria; check with the state WCD office for local rules."
       },
       {
         "question": "How to apply?",
-        "answer": "Through the official portal."
+        "answer": "Apply via the state WCD portal or district office. See https://wcd.nic.in/ for guidance."
       }
     ],
     "documents_required": [
       {
         "name": "Identity proof",
-        "url": ""
+        "url": "https://wcd.nic.in/"
       },
       {
-        "name": "Address proof",
-        "url": ""
+        "name": "Proof of residence",
+        "url": "https://wcd.nic.in/"
       }
     ]
   },
+
   {
     "openDate": "2018-09-16",
     "closeDate": null,
@@ -220,45 +229,44 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Review the scheme on the official portal and check enrollment windows for training or scholarship components.",
+        "url": "https://gov.in/schemes/4"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Apply via the DIKSHA/education portals or state education department as specified in the scheme guidance.",
+        "url": "https://www.education.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Training & scholarships",
+        "details": "Access to courses, scholarships and support for eligible learners."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Digital resources",
+        "details": "Online learning content and teacher training via national platforms."
       }
     ],
     "faqs": [
       {
-        "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "question": "Where to apply?",
+        "answer": "Apply through DIKSHA or state education portals. Check official guidance at https://www.education.gov.in/."
       },
       {
-        "question": "How to apply?",
-        "answer": "Through the official portal."
+        "question": "Who is eligible?",
+        "answer": "Students/learners and institutions as per scheme-specific eligibility criteria."
       }
     ],
     "documents_required": [
       {
-        "name": "Identity proof",
-        "url": ""
-      },
-      {
-        "name": "Address proof",
-        "url": ""
+        "name": "Student/teacher ID (if required)",
+        "url": "https://www.education.gov.in/"
       }
     ]
   },
+
   {
     "openDate": "2019-02-13",
     "closeDate": null,
@@ -285,45 +293,44 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Check scheme components and eligibility on the official state agriculture portal.",
+        "url": "https://gov.in/schemes/5"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Register/submit proposals through the state agriculture department or KVKs (Krishi Vigyan Kendras).",
+        "url": "https://agri.maharashtra.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Input subsidy",
+        "details": "Subsidy on seeds, fertilizers and other production inputs for eligible farmers."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Extension & training",
+        "details": "Access to agricultural extension services, training and demonstration plots."
       }
     ],
     "faqs": [
       {
         "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "answer": "Farmers registered with state land records and eligible under state norms."
       },
       {
         "question": "How to apply?",
-        "answer": "Through the official portal."
+        "answer": "Apply using the state agriculture portal or visit the local agriculture office; see https://agri.maharashtra.gov.in/."
       }
     ],
     "documents_required": [
       {
-        "name": "Identity proof",
-        "url": ""
-      },
-      {
-        "name": "Address proof",
-        "url": ""
+        "name": "Land records / identity proof",
+        "url": "https://agri.maharashtra.gov.in/"
       }
     ]
   },
+
   {
     "openDate": "2018-02-07",
     "closeDate": null,
@@ -350,45 +357,48 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Check scheme details and eligibility on the state housing or urban development portal.",
+        "url": "https://gov.in/schemes/6"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Apply through the state/UT housing portal or Common Service Centre (CSC) as directed by the scheme.",
+        "url": "https://csc.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Subsidy/loan support",
+        "details": "Assistance for affordable housing including subsidies or access to low-interest loans."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Sanitation support",
+        "details": "Assistance for sanitation facilities linked to housing upgrades."
       }
     ],
     "faqs": [
       {
-        "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "question": "Where to apply?",
+        "answer": "Apply via state housing portal or local urban body. Some components may be available through CSCs."
       },
       {
-        "question": "How to apply?",
-        "answer": "Through the official portal."
+        "question": "Who is eligible?",
+        "answer": "Eligible households as identified by the state/UT implementing agency."
       }
     ],
     "documents_required": [
       {
         "name": "Identity proof",
-        "url": ""
+        "url": "https://gov.in/schemes/6"
       },
       {
-        "name": "Address proof",
-        "url": ""
+        "name": "Proof of residence",
+        "url": "https://gov.in/schemes/6"
       }
     ]
   },
+
   {
     "openDate": "2014-11-18",
     "closeDate": null,
@@ -415,45 +425,44 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Refer to the official scheme guidance and registration process on the ministry/state portal.",
+        "url": "https://gov.in/schemes/7"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Register through local health office or empanelled health providers as specified.",
+        "url": "https://www.nhp.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Health assistance",
+        "details": "Coverage for specified services, support for nutrition, and linkages with state insurance schemes."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Preventive care",
+        "details": "Awareness, screening and immunisation support through public health channels."
       }
     ],
     "faqs": [
       {
         "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "answer": "Residents eligible under scheme guidelines; check the local health department for state-specific criteria."
       },
       {
-        "question": "How to apply?",
-        "answer": "Through the official portal."
+        "question": "How to register?",
+        "answer": "Contact your district health office or visit the state health portal. See https://gov.in/schemes/7 for details."
       }
     ],
     "documents_required": [
       {
         "name": "Identity proof",
-        "url": ""
-      },
-      {
-        "name": "Address proof",
-        "url": ""
+        "url": "https://gov.in/schemes/7"
       }
     ]
   },
+
   {
     "openDate": "2007-01-13",
     "closeDate": null,
@@ -480,45 +489,48 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Check eligibility and application details with the state social welfare/department office or official portal.",
+        "url": "https://gov.in/schemes/8"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Apply through district social welfare office or state portal; submit proof and follow verification steps.",
+        "url": "https://socialjustice.nic.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Pensions & allowances",
+        "details": "Monthly pension or financial assistance for eligible individuals such as elderly, widows or persons with disabilities."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Welfare services",
+        "details": "Access to schemes, concessions and social support services via state welfare departments."
       }
     ],
     "faqs": [
       {
-        "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "question": "How to apply?",
+        "answer": "Apply through the district welfare office or the state portal. See https://socialjustice.nic.in/ for details."
       },
       {
-        "question": "How to apply?",
-        "answer": "Through the official portal."
+        "question": "Who is eligible?",
+        "answer": "People falling in eligible categories as defined by the scheme (elderly, widows, persons with disability) and meeting income/other criteria."
       }
     ],
     "documents_required": [
       {
         "name": "Identity proof",
-        "url": ""
+        "url": "https://socialjustice.nic.in/"
       },
       {
-        "name": "Address proof",
-        "url": ""
+        "name": "Proof of eligibility (age/income/disability certificate)",
+        "url": "https://socialjustice.nic.in/"
       }
     ]
   },
+
   {
     "openDate": "2011-11-16",
     "closeDate": null,
@@ -545,45 +557,44 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "Check scheme details on the MSME or state industry portal and confirm eligibility.",
+        "url": "https://gov.in/schemes/9"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Register the enterprise and apply for credit/funding through state nodal agencies, banks or MSME portals.",
+        "url": "https://msme.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Credit & loans",
+        "details": "Access to microloans, credit guarantees and startup support for registered MSMEs."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Market & training",
+        "details": "Support for marketing, training and incubation services to boost enterprise growth."
       }
     ],
     "faqs": [
       {
-        "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "question": "How to apply for credit?",
+        "answer": "Approach the designated banks, NBFCs or state nodal agencies; see https://msme.gov.in/ for central-level guidance."
       },
       {
-        "question": "How to apply?",
-        "answer": "Through the official portal."
+        "question": "Who is eligible?",
+        "answer": "Micro, small and medium enterprise owners meeting the scheme's registration and sector criteria."
       }
     ],
     "documents_required": [
       {
-        "name": "Identity proof",
-        "url": ""
-      },
-      {
-        "name": "Address proof",
-        "url": ""
+        "name": "KYC and business proof",
+        "url": "https://msme.gov.in/"
       }
     ]
   },
+
   {
     "openDate": "2017-04-27",
     "closeDate": null,
@@ -610,117 +621,308 @@
     "applicationProcess": [
       {
         "step": 1,
-        "instruction": "Register on the portal"
+        "instruction": "View scheme details and project eligibility on the official portal.",
+        "url": "https://gov.in/schemes/10"
       },
       {
         "step": 2,
-        "instruction": "Submit required documents"
+        "instruction": "Apply for project funding or support through the state environment/forest department or designated nodal agency.",
+        "url": "https://moef.gov.in/"
       }
     ],
     "eligibilityDescription_md": "Eligible citizens as per scheme rules.",
     "benefits": [
       {
-        "name": "Direct Benefit",
-        "details": "Cash transfer or subsidy"
+        "name": "Project funding",
+        "details": "Grants/subsidies for renewable energy, water conservation or pollution-control projects."
       },
       {
-        "name": "Support",
-        "details": "Training and capacity building"
+        "name": "Technical support",
+        "details": "Capacity building and technical assistance for sustainable projects."
       }
     ],
     "faqs": [
       {
         "question": "Who can apply?",
-        "answer": "Eligible citizens as defined by scheme guidelines."
+        "answer": "State agencies, NGOs and eligible project proponents as per scheme criteria."
       },
       {
-        "question": "How to apply?",
-        "answer": "Through the official portal."
+        "question": "Where to apply?",
+        "answer": "Apply via the state environment department or the nodal portal listed on the scheme page (https://moef.gov.in/)."
       }
     ],
     "documents_required": [
       {
-        "name": "Identity proof",
-        "url": ""
-      },
-      {
-        "name": "Address proof",
-        "url": ""
+        "name": "Project proposal and technical details",
+        "url": "https://moef.gov.in/"
       }
     ]
   },
+
   {
-"openDate": "2014-08-28",
-"closeDate": null,
-"state": "All India",
-"nodalMinistryName": "Ministry of Finance (Department of Financial Services)",
-"schemeName": "Pradhan Mantri Jan Dhan Yojana",
-"schemeShortTitle": "PMJDY",
-"tags": ["banking", "financial-inclusion", "savings"],
-"level": "Central",
-"schemeCategory": ["Financial Inclusion"],
-"references": [{"title": "PMJDY - official", "url": "https://pmjdy.gov.in/"}],
-"detailedDescription_md": "Financial inclusion programme to ensure access to financial services such as bank accounts, remittances, credit, insurance and pensions.",
-"applicationProcess": [{"step": 1, "instruction": "Visit bank or use authorized banking correspondents"}, {"step": 2, "instruction": "Submit identity/address documents and open zero-balance account"}],
-"eligibilityDescription_md": "Any Indian citizen (including minors with guardian) can open an account as per scheme rules.",
-"benefits": [{"name": "Savings account", "details": "Zero balance bank account with overdraft facility for eligible accounts"}, {"name": "Rupay Card", "details": "Debit card linked to account"}],
-"faqs": [{"question": "Who can open an account?", "answer": "Any Indian citizen including minors (with guardian)"}, {"question": "Are there charges?", "answer": "Basic accounts are zero-balance; standard bank charges apply for certain services"}],
-"documents_required": [{"name": "Identity proof", "url": ""}, {"name": "Address proof", "url": ""}]
-},
-{
-"openDate": "2019-02-24",
-"closeDate": null,
-"state": "All India",
-"nodalMinistryName": "Ministry of Agriculture & Farmers Welfare",
-"schemeName": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
-"schemeShortTitle": "PM-KISAN",
-"tags": ["farmers", "income-support", "agriculture"],
-"level": "Central",
-"schemeCategory": ["Agriculture"],
-"references": [{"title": "PM-KISAN official", "url": "https://pmkisan.gov.in/"}],
-"detailedDescription_md": "Income support scheme providing direct cash transfers to eligible farmer families to support agricultural needs.",
-"applicationProcess": [{"step": 1, "instruction": "Check eligibility and register on PM-KISAN portal"}, {"step": 2, "instruction": "Provide farm and identity details for verification"}],
-"eligibilityDescription_md": "Small and marginal farmer families meeting specified eligibility criteria (exclusions apply)",
-"benefits": [{"name": "Direct cash transfer", "details": "Fixed annual support paid in installments"}],
-"faqs": [{"question": "How is benefit paid?", "answer": "Direct transfer to bank account"}, {"question": "Who is excluded?", "answer": "Income-tax payers and certain institutional landholders are excluded"}],
-"documents_required": [{"name": "Aadhaar", "url": ""}, {"name": "Bank passbook", "url": ""}]
-},
-{
-"openDate": "2018-09-23",
-"closeDate": null,
-"state": "All India",
-"nodalMinistryName": "Ministry of Health and Family Welfare",
-"schemeName": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
-"schemeShortTitle": "PM-JAY",
-"tags": ["health", "insurance", "hospital-care"],
-"level": "Central",
-"schemeCategory": ["Health"],
-"references": [{"title": "PM-JAY (Ayushman Bharat)", "url": "https://pmjay.gov.in/"}],
-"detailedDescription_md": "National health protection scheme providing health insurance cover for hospitalization to eligible families.",
-"applicationProcess": [{"step": 1, "instruction": "Check eligibility through empaneled centres or online"}, {"step": 2, "instruction": "Obtain e-card and access empanelled hospitals"}],
-"eligibilityDescription_md": "Targeted at economically vulnerable families as per SECC and state lists; eligibility varies by state rollout.",
-"benefits": [{"name": "Cashless hospitalization", "details": "Covers specified packages and procedures at empaneled hospitals"}],
-"faqs": [{"question": "How to check eligibility?", "answer": "Use the PM-JAY portal or visit local health centre"}, {"question": "Is pre-authorization needed?", "answer": "Some procedures require pre-authorization as per guidelines"}],
-"documents_required": [{"name": "E-card or identity proof", "url": ""}, {"name": "Ration card (where applicable)", "url": ""}]
-},
-{
+    "openDate": "2014-08-28",
+    "closeDate": null,
+    "state": "All India",
+    "nodalMinistryName": "Ministry of Finance (Department of Financial Services)",
+    "schemeName": "Pradhan Mantri Jan Dhan Yojana",
+    "schemeShortTitle": "PMJDY",
+    "tags": [
+      "banking",
+      "financial-inclusion",
+      "savings"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Financial Inclusion"
+    ],
+    "references": [
+      {
+        "title": "PMJDY - official",
+        "url": "https://pmjdy.gov.in/"
+      }
+    ],
+    "detailedDescription_md": "Financial inclusion programme to ensure access to financial services such as bank accounts, remittances, credit, insurance and pensions.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Visit any participating bank branch, bank's website or a banking correspondent/CSC to open a PMJDY account.",
+        "url": "https://pmjdy.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit identity and address documents; follow the bank's account opening process and complete KYC.",
+        "url": "https://pmjdy.gov.in/"
+      }
+    ],
+    "eligibilityDescription_md": "Any Indian citizen (including minors with guardian) can open an account as per scheme rules.",
+    "benefits": [
+      {
+        "name": "Zero balance savings account",
+        "details": "Zero balance bank account with access to deposit, withdrawal and remittance services."
+      },
+      {
+        "name": "Rupay debit card and insurance",
+        "details": "Access to Rupay debit card, accidental insurance cover and overdraft facilities for eligible accounts."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can open an account?",
+        "answer": "Any Indian citizen including minors (with guardian). Visit any participating bank or PMJDY portal to open an account."
+      },
+      {
+        "question": "Where to apply?",
+        "answer": "Visit the official portal https://pmjdy.gov.in/ or any bank branch/banking correspondent/CSC."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof (Aadhaar/PAN/Passport/etc.)",
+        "url": "https://pmjdy.gov.in/"
+      },
+      {
+        "name": "Address proof",
+        "url": "https://pmjdy.gov.in/"
+      }
+    ]
+  },
+
+  {
+    "openDate": "2019-02-24",
+    "closeDate": null,
+    "state": "All India",
+    "nodalMinistryName": "Ministry of Agriculture & Farmers Welfare",
+    "schemeName": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "schemeShortTitle": "PM-KISAN",
+    "tags": [
+      "farmers",
+      "income-support",
+      "agriculture"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Agriculture"
+    ],
+    "references": [
+      {
+        "title": "PM-KISAN official",
+        "url": "https://pmkisan.gov.in/"
+      }
+    ],
+    "detailedDescription_md": "Income support scheme providing direct cash transfers to eligible farmer families to support agricultural needs.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Check eligibility and register on the PM-KISAN portal or visit the nearest Common Service Centre (CSC).",
+        "url": "https://pmkisan.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Provide Aadhaar, bank and landholding details for verification; follow portal instructions for enrolment.",
+        "url": "https://pmkisan.gov.in/"
+      }
+    ],
+    "eligibilityDescription_md": "Small and marginal farmer families meeting specified eligibility criteria (exclusions apply).",
+    "benefits": [
+      {
+        "name": "Direct cash transfer",
+        "details": "Fixed annual support paid in instalments to eligible farmer families to supplement income."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is benefit paid?",
+        "answer": "Direct transfer to the beneficiary's bank account after verification; track payments on the PM-KISAN portal."
+      },
+      {
+        "question": "Who is excluded?",
+        "answer": "Certain categories like income-tax payers and institutional landholders are excluded as per scheme rules."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Aadhaar",
+        "url": "https://pmkisan.gov.in/"
+      },
+      {
+        "name": "Bank passbook / account details",
+        "url": "https://pmkisan.gov.in/"
+      }
+    ]
+  },
+
+  {
+    "openDate": "2018-09-23",
+    "closeDate": null,
+    "state": "All India",
+    "nodalMinistryName": "Ministry of Health and Family Welfare",
+    "schemeName": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "schemeShortTitle": "PM-JAY",
+    "tags": [
+      "health",
+      "insurance",
+      "hospital-care"
+    ],
+    "level": "Central",
+    "schemeCategory": [
+      "Health"
+    ],
+    "references": [
+      {
+        "title": "PM-JAY (Ayushman Bharat)",
+        "url": "https://pmjay.gov.in/"
+      }
+    ],
+    "detailedDescription_md": "National health protection scheme providing health insurance cover for hospitalization to eligible families.",
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Check eligibility on the PM-JAY portal or at empanelled health centres; eligible families obtain e-cards through the portal or local health offices.",
+        "url": "https://pmjay.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Present the e-card at empanelled hospitals for cashless treatment; follow hospital admission/authorization processes.",
+        "url": "https://pmjay.gov.in/"
+      }
+    ],
+    "eligibilityDescription_md": "Targeted at economically vulnerable families as per SECC and state lists; eligibility varies by state rollout.",
+    "benefits": [
+      {
+        "name": "Cashless hospitalization",
+        "details": "Covers specified packages and procedures at empaneled hospitals for eligible families."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to check eligibility?",
+        "answer": "Use the PM-JAY portal to search by name or Ration card, or visit a local health centre. See https://pmjay.gov.in/."
+      },
+      {
+        "question": "Is pre-authorization needed?",
+        "answer": "Some procedures require pre-authorization as per scheme rules and hospital guidelines."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "E-card or identity proof",
+        "url": "https://pmjay.gov.in/"
+      },
+      {
+        "name": "Ration card / family ID (where applicable)",
+        "url": "https://pmjay.gov.in/"
+      }
+    ]
+  },
+
+  {
     "openDate": "2015-06-25",
     "closeDate": null,
     "state": "All India",
     "nodalMinistryName": "Ministry of Housing and Urban Affairs",
     "schemeName": "Pradhan Mantri Awas Yojana (Urban)",
     "schemeShortTitle": "PMAY-U",
-    "tags": ["housing", "urban", "affordable-housing"],
+    "tags": [
+      "housing",
+      "urban",
+      "affordable-housing"
+    ],
     "level": "Central",
-    "schemeCategory": ["Housing"],
-    "references": [{"title": "PMAY (Urban)", "url": "https://pmaymis.gov.in/"}],
+    "schemeCategory": [
+      "Housing"
+    ],
+    "references": [
+      {
+        "title": "PMAY (Urban)",
+        "url": "https://pmaymis.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Mission to provide affordable housing to the urban poor with central assistance to implementing agencies.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply through state/UT portal or Common Service Centre"}, {"step": 2, "instruction": "Verification and allotment as per beneficiary list"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply through the state/UT portal, local urban body or Common Service Centre; the PMAY portal lists your state link.",
+        "url": "https://pmaymis.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Verification and selection as per beneficiary list; follow allotment and sanction procedures.",
+        "url": "https://pmaymis.gov.in/"
+      }
+    ],
     "eligibilityDescription_md": "Eligible urban poor households as per selection criteria under mission guidelines.",
-    "benefits": [{"name": "Subsidy on home loan interest", "details": "Credit-linked subsidy component available to eligible beneficiaries"}, {"name": "Affordable housing support", "details": "Assistance for construction/house"}],
-    "faqs": [{"question": "Who is eligible?", "answer": "Beneficiaries are selected using specified criteria by implementing agency"}, {"question": "Where to apply?", "answer": "State/UT portal or Local urban body"}],
-    "documents_required": [{"name": "Identity proof", "url": ""}, {"name": "Proof of residence", "url": ""}]
+    "benefits": [
+      {
+        "name": "Credit-linked subsidy",
+        "details": "Subsidy on home loan interest for eligible beneficiaries under specified categories."
+      },
+      {
+        "name": "Affordable housing support",
+        "details": "Assistance for construction/house with central and state-level subsidies as applicable."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible?",
+        "answer": "Beneficiaries are selected using specified criteria and beneficiary lists maintained by implementing agencies."
+      },
+      {
+        "question": "Where to apply?",
+        "answer": "Apply via the PMAY portal (https://pmaymis.gov.in/) or your state/UT housing portal or CSCs."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": "https://pmaymis.gov.in/"
+      },
+      {
+        "name": "Proof of residence / beneficiary documents",
+        "url": "https://pmaymis.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2006-02-02",
     "closeDate": null,
@@ -728,17 +930,67 @@
     "nodalMinistryName": "Ministry of Rural Development",
     "schemeName": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
     "schemeShortTitle": "MGNREGA",
-    "tags": ["employment", "rural", "livelihood"],
+    "tags": [
+      "employment",
+      "rural",
+      "livelihood"
+    ],
     "level": "Central",
-    "schemeCategory": ["Employment"],
-    "references": [{"title": "MGNREGA official", "url": "https://nrega.nic.in/"}],
+    "schemeCategory": [
+      "Employment"
+    ],
+    "references": [
+      {
+        "title": "MGNREGA official",
+        "url": "https://nrega.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Provides legal guarantee of at least 100 days of wage employment in a financial year to rural households willing to do unskilled manual work.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply at Gram Panchayat for job card"}, {"step": 2, "instruction": "Demand work and report for allotted work"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register at your Gram Panchayat to get a job card and apply for work demand; the NREGA portal has guidance.",
+        "url": "https://nrega.nic.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Demand work through the Panchayat and report for allotted work on scheduled dates.",
+        "url": "https://nrega.nic.in/"
+      }
+    ],
     "eligibilityDescription_md": "Adult members of rural households willing to do unskilled manual work and enrolled under the scheme.",
-    "benefits": [{"name": "Wage employment", "details": "Minimum wages as per statutory provisions"}, {"name": "Asset creation", "details": "Community assets like roads, ponds"}],
-    "faqs": [{"question": "How many days assured?", "answer": "At least 100 days of guaranteed work per rural household per year"}, {"question": "How to apply?", "answer": "Register at Gram Panchayat to get a job card"}],
-    "documents_required": [{"name": "Identity proof", "url": ""}, {"name": "Residence certificate (if required)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Wage employment",
+        "details": "Guaranteed minimum days of wage employment in a financial year for eligible rural households."
+      },
+      {
+        "name": "Asset creation",
+        "details": "Community assets such as roads, ponds and irrigation structures created under the programme."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How many days guaranteed?",
+        "answer": "At least 100 days of employment per rural household in a financial year, subject to demand and provision."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Register for a job card at the Gram Panchayat; see https://nrega.nic.in/ for details."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": "https://nrega.nic.in/"
+      },
+      {
+        "name": "Household details for job card registration",
+        "url": "https://nrega.nic.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2014-10-02",
     "closeDate": null,
@@ -746,17 +998,63 @@
     "nodalMinistryName": "Ministry of Housing and Urban Affairs / Ministry of Jal Shakti (rural)",
     "schemeName": "Swachh Bharat Mission",
     "schemeShortTitle": "SBM",
-    "tags": ["sanitation", "hygiene", "open-defecation-free"],
+    "tags": [
+      "sanitation",
+      "hygiene",
+      "open-defecation-free"
+    ],
     "level": "Central",
-    "schemeCategory": ["Sanitation"],
-    "references": [{"title": "Swachh Bharat Mission", "url": "https://swachhbharatmission.gov.in/"}],
+    "schemeCategory": [
+      "Sanitation"
+    ],
+    "references": [
+      {
+        "title": "Swachh Bharat Mission",
+        "url": "https://swachhbharatmission.gov.in/"
+      }
+    ],
     "detailedDescription_md": "National campaign for elimination of open defecation, solid waste management and improving cleanliness across urban and rural areas.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply for household toilet subsidy through local authority"}, {"step": 2, "instruction": "Community-level registration for ODF verification"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Contact your local urban body or Gram Panchayat for household toilet subsidy schemes and application procedures.",
+        "url": "https://swachhbharatmission.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Follow local registration, verification and implementation steps as directed by the local authority.",
+        "url": "https://swachhbharatmission.gov.in/"
+      }
+    ],
     "eligibilityDescription_md": "Households meeting specified criteria for subsidy and local community projects per mission guidelines.",
-    "benefits": [{"name": "Toilet construction subsidy", "details": "Financial support for constructing household toilets"}],
-    "faqs": [{"question": "How to get subsidy?", "answer": "Contact local urban body or Gram Panchayat"}, {"question": "What is ODF?", "answer": "Open Defecation Free status certified after community verification"}],
-    "documents_required": [{"name": "Identity proof", "url": ""}, {"name": "Household details", "url": ""}]
+    "benefits": [
+      {
+        "name": "Toilet construction subsidy",
+        "details": "Financial support for constructing household toilets and infrastructure for community sanitation."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to get subsidy?",
+        "answer": "Contact your local urban body or Gram Panchayat; scheme information at https://swachhbharatmission.gov.in/."
+      },
+      {
+        "question": "What is ODF?",
+        "answer": "Open Defecation Free status certified after community verification and fulfilment of program targets."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": "https://swachhbharatmission.gov.in/"
+      },
+      {
+        "name": "Household details for subsidy application",
+        "url": "https://swachhbharatmission.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2016-05-01",
     "closeDate": null,
@@ -764,17 +1062,63 @@
     "nodalMinistryName": "Ministry of Petroleum & Natural Gas",
     "schemeName": "Pradhan Mantri Ujjwala Yojana",
     "schemeShortTitle": "PMUY",
-    "tags": ["clean-cooking", "LPG", "women"],
+    "tags": [
+      "clean-cooking",
+      "LPG",
+      "women"
+    ],
     "level": "Central",
-    "schemeCategory": ["Energy"],
-    "references": [{"title": "PMUY official", "url": "https://pmuy.gov.in/"}],
+    "schemeCategory": [
+      "Energy"
+    ],
+    "references": [
+      {
+        "title": "PMUY official",
+        "url": "https://pmuy.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides LPG connections to women from deprived households to promote clean cooking fuel and reduce health hazards from traditional fuels.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply through designated distribution points or online portal"}, {"step": 2, "instruction": "Complete verification and receive connection"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Check eligibility and apply through the designated distributor or the PMUY portal; many states allow application through CSCs.",
+        "url": "https://pmuy.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Complete verification and receive the LPG connection as per distributor schedules.",
+        "url": "https://pmuy.gov.in/"
+      }
+    ],
     "eligibilityDescription_md": "Women of households below the poverty line (BPL) or as defined by state/central lists are eligible under scheme norms.",
-    "benefits": [{"name": "LPG connection", "details": "Support for initial LPG connection and cylinder subsidy in certain phases"}],
-    "faqs": [{"question": "Who is eligible?", "answer": "Women from BPL/deprived households; eligibility criteria as per scheme"}, {"question": "How to apply?", "answer": "Apply at LPG distributor or through designated government portal"}],
-    "documents_required": [{"name": "Aadhaar/ID proof", "url": ""}, {"name": "BPL certificate (if applicable)", "url": ""}]
+    "benefits": [
+      {
+        "name": "LPG connection",
+        "details": "Support for initial LPG connection and subsidy for connection charges in certain phases."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible?",
+        "answer": "Women from BPL/deprived households; check PMUY guidance at https://pmuy.gov.in/ for state-specific details."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Apply at the LPG distributor, through the PMUY portal or via a CSC as per local procedures."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Aadhaar/ID proof",
+        "url": "https://pmuy.gov.in/"
+      },
+      {
+        "name": "BPL certificate (if applicable)",
+        "url": "https://pmuy.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2016-01-13",
     "closeDate": null,
@@ -782,17 +1126,63 @@
     "nodalMinistryName": "Ministry of Agriculture & Farmers Welfare",
     "schemeName": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
     "schemeShortTitle": "PMFBY",
-    "tags": ["agriculture", "crop-insurance", "risk-management"],
+    "tags": [
+      "agriculture",
+      "crop-insurance",
+      "risk-management"
+    ],
     "level": "Central",
-    "schemeCategory": ["Agriculture"],
-    "references": [{"title": "PMFBY overview", "url": "https://pmfby.gov.in/"}],
+    "schemeCategory": [
+      "Agriculture"
+    ],
+    "references": [
+      {
+        "title": "PMFBY overview",
+        "url": "https://pmfby.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Crop insurance scheme to provide financial support to farmers suffering crop losses due to natural calamities, pests and diseases.",
-    "applicationProcess": [{"step": 1, "instruction": "Enroll with implementing agencies or insurance service providers"}, {"step": 2, "instruction": "Submit crop and land details for coverage"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Enroll with implementing agencies or nominated insurance providers through the state agriculture department or portal.",
+        "url": "https://pmfby.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit crop and land details for coverage and follow claim processes if needed.",
+        "url": "https://pmfby.gov.in/"
+      }
+    ],
     "eligibilityDescription_md": "Farmers cultivating notified crops in notified areas as per scheme guidelines are eligible to enrol.",
-    "benefits": [{"name": "Compensation for crop loss", "details": "Insurance payout based on calibrated area or crop-cutting experiments"}],
-    "faqs": [{"question": "What does it cover?", "answer": "Losses due to specified natural calamities, pests and diseases"}, {"question": "How are claims settled?", "answer": "Through notified processes and timelines in each state"}],
-    "documents_required": [{"name": "Land records/Farm details", "url": ""}, {"name": "Identity proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Insurance coverage",
+        "details": "Compensation for crop loss based on notified procedures and area-based or yield-based methods."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does it cover?",
+        "answer": "Losses due to specified natural calamities, pests and diseases under notified crop and area lists."
+      },
+      {
+        "question": "How to file a claim?",
+        "answer": "Follow the claim procedures through the implementing agency or insurance provider; see https://pmfby.gov.in/ for details."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Land / farm records",
+        "url": "https://pmfby.gov.in/"
+      },
+      {
+        "name": "Identity proof",
+        "url": "https://pmfby.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2016-08-15",
     "closeDate": null,
@@ -800,17 +1190,62 @@
     "nodalMinistryName": "Ministry of Skill Development & Entrepreneurship",
     "schemeName": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
     "schemeShortTitle": "PMKVY",
-    "tags": ["skill-development", "training", "vocational"],
+    "tags": [
+      "skill-development",
+      "training",
+      "vocational"
+    ],
     "level": "Central",
-    "schemeCategory": ["Skill Development"],
-    "references": [{"title": "PMKVY", "url": "https://www.pmkvyofficial.org/"}],
+    "schemeCategory": [
+      "Skill Development"
+    ],
+    "references": [
+      {
+        "title": "PMKVY",
+        "url": "https://www.pmkvyofficial.org/"
+      }
+    ],
     "detailedDescription_md": "Short-term skill training programmes to enable youth to take up industry-relevant skills and improve employability.",
-    "applicationProcess": [{"step": 1, "instruction": "Register at authorized training center"}, {"step": 2, "instruction": "Complete training and assessment to receive certification"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register at an authorized PMKVY training center using the PMKVY portal or visit local training centres listed on the portal.",
+        "url": "https://www.pmkvyofficial.org/"
+      },
+      {
+        "step": 2,
+        "instruction": "Complete training and assessment to receive certification and placement support as per scheme."
+      }
+    ],
     "eligibilityDescription_md": "Youth and job-seekers as per scheme guidelines; different components for fresh, existing and special groups.",
-    "benefits": [{"name": "Certification", "details": "Recognized certificates and possible placement assistance"}],
-    "faqs": [{"question": "Is training free?", "answer": "Many PMKVY trainings are funded; check specific center details"}, {"question": "Who conducts assessment?", "answer": "Assessment agencies authorized under the scheme"}],
-    "documents_required": [{"name": "Identity proof", "url": ""}, {"name": "Educational certificates (if any)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Certification",
+        "details": "Recognized certificates on successful completion; possible placement assistance through employers and placement fairs."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is training free?",
+        "answer": "Many PMKVY trainings are funded and free for eligible trainees; check the specific training centre details on the PMKVY portal."
+      },
+      {
+        "question": "How to register?",
+        "answer": "Register at authorized centres listed on https://www.pmkvyofficial.org/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof",
+        "url": "https://www.pmkvyofficial.org/"
+      },
+      {
+        "name": "Educational certificates (where applicable)",
+        "url": "https://www.pmkvyofficial.org/"
+      }
+    ]
   },
+
   {
     "openDate": "2015-04-08",
     "closeDate": null,
@@ -818,17 +1253,63 @@
     "nodalMinistryName": "Ministry of Finance",
     "schemeName": "Pradhan Mantri MUDRA Yojana (PMMY)",
     "schemeShortTitle": "PMMY",
-    "tags": ["microfinance", "loans", "MSME"],
+    "tags": [
+      "microfinance",
+      "loans",
+      "MSME"
+    ],
     "level": "Central",
-    "schemeCategory": ["Finance", "MSME"],
-    "references": [{"title": "PMMY - MUDRA", "url": "https://www.mudra.org.in/"}],
+    "schemeCategory": [
+      "Finance",
+      "MSME"
+    ],
+    "references": [
+      {
+        "title": "PMMY - MUDRA",
+        "url": "https://www.mudra.org.in/"
+      }
+    ],
     "detailedDescription_md": "Provides loans to non-corporate, non-farm small/micro enterprises to promote entrepreneurship and self-employment.",
-    "applicationProcess": [{"step": 1, "instruction": "Approach bank/financier with business details"}, {"step": 2, "instruction": "Submit KYC and business plan for loan processing"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Approach participating banks, MFIs or NBFCs with your business details and MUDRA application forms.",
+        "url": "https://www.mudra.org.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Submit KYC and business plan documents for loan appraisal and processing."
+      }
+    ],
     "eligibilityDescription_md": "Micro and small business owners in non-corporate sector; eligibility and loan caps vary by category (Shishu, Kishore, Tarun).",
-    "benefits": [{"name": "Collateral-free loans", "details": "Loans without traditional collateral under defined limits"}],
-    "faqs": [{"question": "What is Shishu/Kishore/Tarun?", "answer": "Categories under MUDRA based on loan size and maturity of enterprise"}, {"question": "Who lends?", "answer": "Banks, MFIs and NBFCs participating in scheme"}],
-    "documents_required": [{"name": "KYC documents", "url": ""}, {"name": "Business proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Collateral-free loans",
+        "details": "Access to loans without traditional collateral under defined limits to encourage entrepreneurship."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What are Shishu/Kishore/Tarun?",
+        "answer": "Categories under MUDRA based on loan size and stage of enterprise (smallest to larger ticket sizes)."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Approach a participating bank or MUDRA channel partner; see https://www.mudra.org.in/ for details."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "KYC documents",
+        "url": "https://www.mudra.org.in/"
+      },
+      {
+        "name": "Business proof / plan",
+        "url": "https://www.mudra.org.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2014-11-02",
     "closeDate": null,
@@ -836,17 +1317,63 @@
     "nodalMinistryName": "Ministry of Human Resource Development (Education)",
     "schemeName": "Mid-Day Meal Scheme",
     "schemeShortTitle": "MDM",
-    "tags": ["education", "nutrition", "school"],
+    "tags": [
+      "education",
+      "nutrition",
+      "school"
+    ],
     "level": "Central",
-    "schemeCategory": ["Education", "Nutrition"],
-    "references": [{"title": "Mid-Day Meal Scheme", "url": "https://mdm.nic.in/"}],
+    "schemeCategory": [
+      "Education",
+      "Nutrition"
+    ],
+    "references": [
+      {
+        "title": "Mid-Day Meal Scheme",
+        "url": "https://mdm.nic.in/"
+      }
+    ],
     "detailedDescription_md": "School meal programme to improve nutritional status of school-age children and boost attendance.",
-    "applicationProcess": [{"step": 1, "instruction": "Students enrolled in participating schools receive meals as per schedule"}, {"step": 2, "instruction": "Parents/guardians ensure regular attendance"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Students are enrolled through participating schools; parents should contact the school authority for enrolment.",
+        "url": "https://mdm.nic.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Schools/coordinating agencies handle meal distribution and record-keeping as per state guidelines."
+      }
+    ],
     "eligibilityDescription_md": "All children enrolled in government and certain aided schools as per scheme guidelines.",
-    "benefits": [{"name": "Nutritious meals", "details": "Hot cooked meals during school days"}],
-    "faqs": [{"question": "Which schools?", "answer": "Government and government-aided schools participating under the scheme"}, {"question": "Is it free?", "answer": "Yes, meals are provided free to eligible students"}],
-    "documents_required": [{"name": "School enrolment proof", "url": ""}, {"name": "None (provided at school)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Nutritious meals",
+        "details": "Hot cooked meals provided during school days to improve child nutrition and school attendance."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which schools are covered?",
+        "answer": "Government and government-aided schools participating under the Mid-Day Meal scheme; check with your school or district education office."
+      },
+      {
+        "question": "Is it free?",
+        "answer": "Yes — meals are provided free to eligible students under the scheme."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "School enrolment proof",
+        "url": "https://mdm.nic.in/"
+      },
+      {
+        "name": "None (provided at school)",
+        "url": "https://mdm.nic.in/"
+      }
+    ]
   },
+
   {
     "openDate": "1975-08-15",
     "closeDate": null,
@@ -854,17 +1381,66 @@
     "nodalMinistryName": "Ministry of Women and Child Development",
     "schemeName": "Integrated Child Development Services (ICDS)",
     "schemeShortTitle": "ICDS",
-    "tags": ["childcare", "nutrition", "early-childhood"],
+    "tags": [
+      "childcare",
+      "nutrition",
+      "early-childhood"
+    ],
     "level": "Central",
-    "schemeCategory": ["Child Welfare"],
-    "references": [{"title": "ICDS", "url": "https://icds-wcd.nic.in/"}],
+    "schemeCategory": [
+      "Child Welfare"
+    ],
+    "references": [
+      {
+        "title": "ICDS",
+        "url": "https://icds-wcd.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Provides food, preschool education, and primary healthcare to children under 6 years and their mothers.",
-    "applicationProcess": [{"step": 1, "instruction": "Register at Anganwadi centre"}, {"step": 2, "instruction": "Attend supplementary nutrition and health check-ups"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register at your local Anganwadi centre to access services; Anganwadi workers maintain enrolment records.",
+        "url": "https://icds-wcd.nic.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Attend supplementary nutrition and health check-ups as scheduled by the Anganwadi."
+      }
+    ],
     "eligibilityDescription_md": "Children under 6 years, pregnant and lactating mothers in notified areas.",
-    "benefits": [{"name": "Supplementary nutrition", "details": "Nutritious food and health services"}, {"name": "Early education", "details": "Pre-school non-formal education"}],
-    "faqs": [{"question": "Where to register?", "answer": "Local Anganwadi centre"}, {"question": "Who benefits?", "answer": "Young children and mothers as per guidelines"}],
-    "documents_required": [{"name": "Child’s birth certificate (if available)", "url": ""}, {"name": "Mother’s identity proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Supplementary nutrition",
+        "details": "Nutritious food and health services for children and mothers."
+      },
+      {
+        "name": "Early education",
+        "details": "Non-formal pre-school education and basic health check-ups."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where to register?",
+        "answer": "Local Anganwadi centre. Visit https://icds-wcd.nic.in/ for national guidance and contact information."
+      },
+      {
+        "question": "Who benefits?",
+        "answer": "Young children and mothers in notified areas as per ICDS rules."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Child’s birth certificate (if available)",
+        "url": "https://icds-wcd.nic.in/"
+      },
+      {
+        "name": "Mother’s identity proof",
+        "url": "https://icds-wcd.nic.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2015-07-01",
     "closeDate": null,
@@ -872,17 +1448,58 @@
     "nodalMinistryName": "Ministry of Home Affairs",
     "schemeName": "Beti Bachao Beti Padhao",
     "schemeShortTitle": "BBBP",
-    "tags": ["girls", "education", "gender"],
+    "tags": [
+      "girls",
+      "education",
+      "gender"
+    ],
     "level": "Central",
-    "schemeCategory": ["Gender & Child Welfare"],
-    "references": [{"title": "Beti Bachao Beti Padhao", "url": "https://wcd.nic.in/"}],
+    "schemeCategory": [
+      "Gender & Child Welfare"
+    ],
+    "references": [
+      {
+        "title": "Beti Bachao Beti Padhao",
+        "url": "https://wcd.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Campaign to address declining child sex ratio and promote girl child education and empowerment.",
-    "applicationProcess": [{"step": 1, "instruction": "Community campaigns and registration through state nodal points"}, {"step": 2, "instruction": "Support for education and schemes implementation"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Community campaigns and registration are facilitated through state nodal points and WCD offices.",
+        "url": "https://wcd.nic.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Participate in outreach activities and apply for linked benefits via state portals or district offices."
+      }
+    ],
     "eligibilityDescription_md": "Programmatic support available to communities and families; benefits depend on linked schemes and state implementation.",
-    "benefits": [{"name": "Awareness and support", "details": "Community outreach, incentives via linked schemes"}],
-    "faqs": [{"question": "What is aim?", "answer": "Improve child sex ratio and promote girl education"}, {"question": "Who runs it?", "answer": "Ministry of Women and Child Development in coordination with states"}],
-    "documents_required": [{"name": "Local centre registration (if any)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Awareness & support",
+        "details": "Community outreach, incentives via linked schemes and empowerment programs for girls."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the aim?",
+        "answer": "Improve child sex ratio and promote girl education and empowerment through coordinated actions at national and state levels."
+      },
+      {
+        "question": "Who runs it?",
+        "answer": "Ministry of Women and Child Development in coordination with states."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Local centre registration (if any)",
+        "url": "https://wcd.nic.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2010-09-01",
     "closeDate": null,
@@ -890,17 +1507,62 @@
     "nodalMinistryName": "Ministry of Social Justice and Empowerment",
     "schemeName": "National Social Assistance Programme (NSAP)",
     "schemeShortTitle": "NSAP",
-    "tags": ["pension", "old-age", "social-security"],
+    "tags": [
+      "pension",
+      "old-age",
+      "social-security"
+    ],
     "level": "Central",
-    "schemeCategory": ["Social Welfare"],
-    "references": [{"title": "NSAP", "url": "https://socialjustice.nic.in/"}],
+    "schemeCategory": [
+      "Social Welfare"
+    ],
+    "references": [
+      {
+        "title": "NSAP",
+        "url": "https://socialjustice.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Provides social assistance to elderly, widows and persons with disabilities in the form of pensions and support.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply through district social welfare office"}, {"step": 2, "instruction": "Provide necessary documents for verification"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply through the district social welfare office or state portal; verify scheme-specific documentation requirements.",
+        "url": "https://socialjustice.nic.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Undergo verification and receive pension payments as per rules."
+      }
+    ],
     "eligibilityDescription_md": "Eligible individuals as per age/disability/widow criteria and income thresholds defined by state/central rules.",
-    "benefits": [{"name": "Pension", "details": "Monthly assistance as per scheme rules"}],
-    "faqs": [{"question": "Who is eligible?", "answer": "Elderly, widows and persons with disabilities meeting criteria"}, {"question": "How to apply?", "answer": "District social welfare office or online portals where available"}],
-    "documents_required": [{"name": "Age proof", "url": ""}, {"name": "Income proof (if required)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Pension support",
+        "details": "Monthly assistance to eligible elderly, widows and persons with disabilities under NSAP components."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible?",
+        "answer": "Elderly, widows and persons with disabilities meeting criteria; check the district social welfare office for details."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Apply via the district office or state portal; refer to https://socialjustice.nic.in/ for central guidance."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Age proof",
+        "url": "https://socialjustice.nic.in/"
+      },
+      {
+        "name": "Income proof (if required)",
+        "url": "https://socialjustice.nic.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2015-07-24",
     "closeDate": null,
@@ -908,17 +1570,54 @@
     "nodalMinistryName": "Ministry of Rural Development",
     "schemeName": "Deen Dayal Upadhyaya Gram Jyoti Yojana (DDUGJY)",
     "schemeShortTitle": "DDUGJY",
-    "tags": ["rural-electrification", "power", "infrastructure"],
+    "tags": [
+      "rural-electrification",
+      "power",
+      "infrastructure"
+    ],
     "level": "Central",
-    "schemeCategory": ["Infrastructure"],
-    "references": [{"title": "DDUGJY", "url": "https://pib.gov.in/"}],
+    "schemeCategory": [
+      "Infrastructure"
+    ],
+    "references": [
+      {
+        "title": "DDUGJY",
+        "url": "https://pib.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Focused on rural electrification and strengthening power infrastructure in rural areas.",
-    "applicationProcess": [{"step": 1, "instruction": "State utilities submit project proposals"}, {"step": 2, "instruction": "Implementation monitored by central/state agencies"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State utilities submit project proposals to the central nodal agencies as per scheme guidelines.",
+        "url": "https://pib.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation and beneficiary targeting is done by state utilities and district authorities."
+      }
+    ],
     "eligibilityDescription_md": "Works and projects identified and approved by implementing agencies for rural areas.",
-    "benefits": [{"name": "Electricity access", "details": "Improved electricity connections and infrastructure in villages"}],
-    "faqs": [{"question": "Who implements?", "answer": "State power utilities with central support"}, {"question": "How are villages selected?", "answer": "Based on electrification status and project priorities"}],
-    "documents_required": [{"name": "Project proposals by utilities", "url": ""}]
+    "benefits": [
+      {
+        "name": "Electricity access",
+        "details": "Improved electricity connections and infrastructure for rural households and villages."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who implements?",
+        "answer": "State power utilities with central support and monitoring agencies."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Project proposals by utilities",
+        "url": "https://pib.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2004-12-25",
     "closeDate": null,
@@ -926,17 +1625,49 @@
     "nodalMinistryName": "Ministry of Railways",
     "schemeName": "National Programme for Provision of Basic Amenities to Urban Poor (up-gradation) - (example placeholder)",
     "schemeShortTitle": "UrbanPoor",
-    "tags": ["urban-poverty", "amenities"],
+    "tags": [
+      "urban-poverty",
+      "amenities"
+    ],
     "level": "Central",
-    "schemeCategory": ["Urban Development"],
-    "references": [{"title": "India.gov.in schemes", "url": "https://www.india.gov.in/"}],
+    "schemeCategory": [
+      "Urban Development"
+    ],
+    "references": [
+      {
+        "title": "India.gov.in schemes",
+        "url": "https://www.india.gov.in/"
+      }
+    ],
     "detailedDescription_md": "(Placeholder entry representing typical urban-poverty alleviation programmes; replace with specific programme details as needed).",
-    "applicationProcess": [{"step": 1, "instruction": "Contact local urban body for programme details"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Contact local urban body for programme details and application process.",
+        "url": "https://www.india.gov.in/"
+      }
+    ],
     "eligibilityDescription_md": "Depends on specific programme rules and local implementation.",
-    "benefits": [{"name": "Localised support", "details": "Improved access to amenities for urban poor"}],
-    "faqs": [{"question": "Is this central?", "answer": "Many urban poverty alleviation schemes have central/state components"}],
-    "documents_required": [{"name": "Residence proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Localised support",
+        "details": "Improved access to amenities, shelter and essential services for urban poor households."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is this central?",
+        "answer": "Many urban poverty alleviation schemes have central/state components; local authorities implement specific programmes."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Residence proof",
+        "url": "https://www.india.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2010-11-01",
     "closeDate": null,
@@ -944,17 +1675,58 @@
     "nodalMinistryName": "Ministry of Minority Affairs",
     "schemeName": "Seekho aur Kamao (Learn & Earn) - Skill development for minorities",
     "schemeShortTitle": "SeekhoKamao",
-    "tags": ["skills", "minorities", "training"],
+    "tags": [
+      "skills",
+      "minorities",
+      "training"
+    ],
     "level": "Central",
-    "schemeCategory": ["Skill Development"],
-    "references": [{"title": "Minority Affairs schemes", "url": "https://minorityaffairs.gov.in/"}],
+    "schemeCategory": [
+      "Skill Development"
+    ],
+    "references": [
+      {
+        "title": "Minority Affairs schemes",
+        "url": "https://minorityaffairs.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Skill training and placement assistance for minority youth through accredited training providers.",
-    "applicationProcess": [{"step": 1, "instruction": "Register at designated training centres"}, {"step": 2, "instruction": "Complete training and placement support"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register at designated training centres or on the minority affairs portal; find accredited centres on the nodal portal.",
+        "url": "https://minorityaffairs.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Complete training and placement assistance processes as provided by the implementing agency."
+      }
+    ],
     "eligibilityDescription_md": "Minority community youth meeting scheme age and education criteria.",
-    "benefits": [{"name": "Training and placement", "details": "Skill certification and job linkages"}],
-    "faqs": [{"question": "Is it free?", "answer": "Many trainings under the scheme are centrally funded"}],
-    "documents_required": [{"name": "Minority certificate (if required)", "url": ""}, {"name": "Identity proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Training & placement",
+        "details": "Skill certification and job linkages through participating training providers."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is it free?",
+        "answer": "Many trainings under the scheme are centrally funded; check the scheme page for details and eligible centres."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Minority certificate (if required)",
+        "url": "https://minorityaffairs.gov.in/"
+      },
+      {
+        "name": "Identity proof",
+        "url": "https://minorityaffairs.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2015-12-25",
     "closeDate": null,
@@ -962,17 +1734,54 @@
     "nodalMinistryName": "Ministry of Jal Shakti",
     "schemeName": "Jal Jeevan Mission",
     "schemeShortTitle": "JJM",
-    "tags": ["water", "rural-water-supply", "drinking-water"],
+    "tags": [
+      "water",
+      "rural-water-supply",
+      "drinking-water"
+    ],
     "level": "Central",
-    "schemeCategory": ["Water & Sanitation"],
-    "references": [{"title": "Jal Jeevan Mission", "url": "https://jaljeevanmission.gov.in/"}],
+    "schemeCategory": [
+      "Water & Sanitation"
+    ],
+    "references": [
+      {
+        "title": "Jal Jeevan Mission",
+        "url": "https://jaljeevanmission.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Aim to provide safe and adequate drinking water through individual household tap connections to all rural households.",
-    "applicationProcess": [{"step": 1, "instruction": "State PHE/Implementing agencies submit plans"}, {"step": 2, "instruction": "Household level connections rolled out as per plan"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State PHE/implementing agencies submit plans and households contact local authorities for connection details.",
+        "url": "https://jaljeevanmission.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Household connection applications are processed locally and rolled out per state implementation plan."
+      }
+    ],
     "eligibilityDescription_md": "Rural households prioritized for piped potable water connections under mission guidelines.",
-    "benefits": [{"name": "Household tap connections", "details": "Safe and reliable drinking water supply"}],
-    "faqs": [{"question": "Who implements?", "answer": "State/UT and local bodies in coordination with central ministry"}],
-    "documents_required": [{"name": "Household details for connection", "url": ""}]
+    "benefits": [
+      {
+        "name": "Household tap connections",
+        "details": "Safe and reliable drinking water supply to individual households."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who implements?",
+        "answer": "State/UT and local bodies in coordination with the central ministry; see https://jaljeevanmission.gov.in/ for guidance."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Household details for connection",
+        "url": "https://jaljeevanmission.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2016-09-29",
     "closeDate": null,
@@ -980,17 +1789,50 @@
     "nodalMinistryName": "Ministry of Electronics & Information Technology",
     "schemeName": "Digital India",
     "schemeShortTitle": "DigitalIndia",
-    "tags": ["digital-services", "governance", "connectivity"],
+    "tags": [
+      "digital-services",
+      "governance",
+      "connectivity"
+    ],
     "level": "Central",
-    "schemeCategory": ["Digital Governance"],
-    "references": [{"title": "Digital India", "url": "https://digitalindia.gov.in/"}],
+    "schemeCategory": [
+      "Digital Governance"
+    ],
+    "references": [
+      {
+        "title": "Digital India",
+        "url": "https://digitalindia.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Programme to transform India into a digitally empowered society and knowledge economy through digital infrastructure and services.",
-    "applicationProcess": [{"step": 1, "instruction": "Access services through MyGov, Digital India platforms"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Access services through MyGov, Digital India platforms or designated portals depending on the service.",
+        "url": "https://digitalindia.gov.in/"
+      }
+    ],
     "eligibilityDescription_md": "Citizens, businesses and government bodies can use the digital platforms and services as per service rules.",
-    "benefits": [{"name": "Access to e-services", "details": "Online government services, e-governance portals and digital identity"}],
-    "faqs": [{"question": "How to access?", "answer": "Visit Digital India portals and use APis/services"}],
-    "documents_required": [{"name": "Varies by service", "url": ""}]
+    "benefits": [
+      {
+        "name": "Access to e-services",
+        "details": "Online government services, e-governance portals and digital identity benefits."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to access?",
+        "answer": "Visit Digital India portals and linked services; some services require registration with MyGov or specific department portals."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Varies by service",
+        "url": "https://digitalindia.gov.in/"
+      }
+    ]
   },
+
   {
     "openDate": "2016-01-01",
     "closeDate": null,
@@ -998,16 +1840,56 @@
     "nodalMinistryName": "Ministry of Commerce & Industry",
     "schemeName": "Startup India",
     "schemeShortTitle": "StartupIndia",
-    "tags": ["startup", "entrepreneurship", "incubation"],
+    "tags": [
+      "startup",
+      "entrepreneurship",
+      "incubation"
+    ],
     "level": "Central",
-    "schemeCategory": ["Industry & Entrepreneurship"],
-    "references": [{"title": "Startup India", "url": "https://www.startupindia.gov.in/"}],
+    "schemeCategory": [
+      "Industry & Entrepreneurship"
+    ],
+    "references": [
+      {
+        "title": "Startup India",
+        "url": "https://www.startupindia.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Initiative to build a strong ecosystem for nurturing innovation-led start-ups through funding, incubators and regulatory support.",
-    "applicationProcess": [{"step": 1, "instruction": "Register startup on Startup India portal"}, {"step": 2, "instruction": "Apply for benefits and schemes through portal"}],
-    "eligibilityDescription_md": "Innovative entities meeting definition of startup, as per Department for Promotion of Industry and Internal Trade (DPIIT).",
-    "benefits": [{"name": "Tax & compliance benefits", "details": "Various regulatory and fiscal benefits for recognised startups"}],
-    "faqs": [{"question": "How to apply?", "answer": "Online registration on Startup India portal"}],
-    "documents_required": [{"name": "Company registration documents", "url": ""}, {"name": "Pitch/Plan details", "url": ""}]
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register your startup on the Startup India portal and complete the verification steps.",
+        "url": "https://www.startupindia.gov.in/"
+      },
+      {
+        "step": 2,
+        "instruction": "Apply for benefits, funding and incubator support through the Startup India dashboard as applicable."
+      }
+    ],
+    "eligibilityDescription_md": "Innovative entities meeting the definition of startup, as per DPIIT.",
+    "benefits": [
+      {
+        "name": "Tax & compliance benefits",
+        "details": "Regulatory and fiscal benefits, incubator and funding support for recognised startups."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to apply?",
+        "answer": "Register online at https://www.startupindia.gov.in/ and explore available schemes and benefits."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Company registration documents",
+        "url": "https://www.startupindia.gov.in/"
+      },
+      {
+        "name": "Pitch/business plan",
+        "url": "https://www.startupindia.gov.in/"
+      }
+    ]
   }
 ,
   {
@@ -1171,23 +2053,62 @@
     "desc": "Mission to enhance India’s computing capabilities with a network of supercomputers."
   }
 ,
-  {
+{
     "openDate": "2000-12-25",
     "closeDate": null,
     "state": "All India",
     "nodalMinistryName": "Ministry of Rural Development",
     "schemeName": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
     "schemeShortTitle": "PMGSY",
-    "tags": ["rural", "roads", "infrastructure"],
+    "tags": [
+      "rural",
+      "roads",
+      "infrastructure"
+    ],
     "level": "Central",
-    "schemeCategory": ["Infrastructure"],
-    "references": [{"title": "PMGSY", "url": "https://pmgsy.gov.in/"}],
+    "schemeCategory": [
+      "Infrastructure"
+    ],
+    "references": [
+      {
+        "title": "PMGSY",
+        "url": "https://pmgsy.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides all-weather road connectivity to eligible unconnected inhabited habitations in rural areas.",
-    "applicationProcess": [{"step": 1, "instruction": "State/central agencies identify eligible habitations"}, {"step": 2, "instruction": "Procurement and construction by implementing agencies"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Project identification is carried out by State/central agencies. Official PMGSY website with program details and tenders: https://pmgsy.gov.in/ (implementing agencies / NRIDA portals — no individual citizen 'apply' form)."
+      },
+      {
+        "step": 2,
+        "instruction": "Procurement and construction by implementing agencies; for tenders or e-procurement see PMGSY eTender portals (example): https://www.pmgsytenders.gov.in/ or the state's PMGSY portal."
+      }
+    ],
     "eligibilityDescription_md": "Rural habitations without all-weather road connectivity are prioritised as per guidelines.",
-    "benefits": [{"name": "Road connectivity", "details": "Improved access to markets, schools and services"}],
-    "faqs": [{"question": "Who implements?", "answer": "State PWD/Rural Development departments with central funding"}],
-    "documents_required": [{"name": "Project proposals/records", "url": ""}]
+    "benefits": [
+      {
+        "name": "Road connectivity",
+        "details": "Improved access to markets, schools and services; year-round all-weather roads leading to improved mobility and livelihoods."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who implements?",
+        "answer": "State PWD/Rural Development departments with central funding (National Rural Infrastructure Development Agency/NRIDA coordinates). See PMGSY FAQs on official site."
+      },
+      {
+        "question": "Can individuals apply?",
+        "answer": "No — PMGSY works through state/district agencies. Citizens can raise grievances or view project info on PMGSY/KnowYourRoad portals."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Project proposals/records",
+        "url": "https://pmgsy.gov.in/ (state implementing agencies upload project DPRs and related documents)"
+      }
+    ]
   },
   {
     "openDate": "2013-04-01",
@@ -1196,16 +2117,55 @@
     "nodalMinistryName": "Ministry of Health and Family Welfare",
     "schemeName": "National Health Mission (NHM)",
     "schemeShortTitle": "NHM",
-    "tags": ["health", "primary-care", "maternal-health"],
+    "tags": [
+      "health",
+      "primary-care",
+      "maternal-health"
+    ],
     "level": "Central",
-    "schemeCategory": ["Health"],
-    "references": [{"title": "NHM", "url": "https://nhm.gov.in/"}],
+    "schemeCategory": [
+      "Health"
+    ],
+    "references": [
+      {
+        "title": "NHM",
+        "url": "https://nhm.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides flexible funding for states to strengthen health systems, primary healthcare, and essential services.",
-    "applicationProcess": [{"step": 1, "instruction": "State health departments prepare and submit plans"}, {"step": 2, "instruction": "Implementation through state/district health societies"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State health departments prepare and submit plans. For scheme details and state-level contact/online services see https://nhm.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation through state/district health societies. For specific services (eg. facility empanelment, NHM recruitments) use the state NHM portals linked from the NHM site."
+      }
+    ],
     "eligibilityDescription_md": "Universal public health services available through government facilities to eligible populations.",
-    "benefits": [{"name": "Primary healthcare", "details": "Improved maternal, neonatal and child health services"}],
-    "faqs": [{"question": "How to access services?", "answer": "Visit public health centres and government hospitals"}],
-    "documents_required": [{"name": "Identity proof (for certified services)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Primary healthcare",
+        "details": "Improved maternal, neonatal and child health services; immunisation; disease control programmes; strengthened primary & community health infrastructure."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to access services?",
+        "answer": "Visit public health centres, government hospitals or use state NHM portals. NHM site lists state links and schemes: https://nhm.gov.in/."
+      },
+      {
+        "question": "Can I get a job under NHM?",
+        "answer": "NHM hires via state/district health societies; vacancies are published on NHM state portals—check the NHM website for links."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Identity proof (for certified services)",
+        "url": "https://nhm.gov.in/ (state NHM portals list documentation for specific services; typically Aadhaar, ID, address proof for certified services)"
+      }
+    ]
   },
   {
     "openDate": "1997-06-01",
@@ -1214,16 +2174,59 @@
     "nodalMinistryName": "Ministry of Consumer Affairs, Food & Public Distribution",
     "schemeName": "Targeted Public Distribution System (TPDS)",
     "schemeShortTitle": "TPDS",
-    "tags": ["food", "subsidy", "PDS"],
+    "tags": [
+      "food",
+      "subsidy",
+      "PDS"
+    ],
     "level": "Central",
-    "schemeCategory": ["Food Security"],
-    "references": [{"title": "TPDS", "url": "https://dfpd.gov.in/"}],
+    "schemeCategory": [
+      "Food Security"
+    ],
+    "references": [
+      {
+        "title": "TPDS",
+        "url": "https://dfpd.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides subsidised food grains to eligible households through ration cards and fair price shops.",
-    "applicationProcess": [{"step": 1, "instruction": "Households obtain ration cards from local authorities"}, {"step": 2, "instruction": "Collect subsidised grains from designated fair price shops"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Ration cards and NFSA beneficiary lists are managed by states. Apply for a new ration card or other PDS services through your State/UT Food & Civil Supplies online portal; NFSA central guidance & state portal links: https://nfsa.gov.in/portal/apply_ration_card"
+      },
+      {
+        "step": 2,
+        "instruction": "Collect subsidised grains from designated fair price shops (FPS) using your ration card or One Nation One Ration Card arrangements; check state FPS portals (links on NFSA/DFPD site)."
+      }
+    ],
     "eligibilityDescription_md": "Households listed under NFSA or state-specific beneficiary lists receive entitlements per quota.",
-    "benefits": [{"name": "Subsidized food grains", "details": "Wheat, rice and coarse grains as allocated under NFSA/TPDS"}],
-    "faqs": [{"question": "How to get ration card?", "answer": "Apply at local civil supplies office or online portals where available"}],
-    "documents_required": [{"name": "Proof of residence", "url": ""}, {"name": "Identity proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Subsidized food grains",
+        "details": "Wheat, rice and coarse grains as allocated under NFSA/TPDS; stabilises food security and reduces household food expenditure."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to get ration card?",
+        "answer": "Apply at your local civil supplies office or via your state/UT food supply portal. NFSA central page links to state portals: https://nfsa.gov.in/portal/apply_ration_card"
+      },
+      {
+        "question": "How to use One Nation One Ration Card?",
+        "answer": "Check the central ANM/One Nation One Ration Card guidance on NFSA portal and your state food portal for portability procedures."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Proof of residence",
+        "url": "https://nfsa.gov.in/portal/apply_ration_card (state portals list acceptable residence proofs)"
+      },
+      {
+        "name": "Identity proof",
+        "url": "https://nfsa.gov.in/portal/apply_ration_card (state portals list accepted ID proofs such as Aadhaar, Voter ID, etc.)"
+      }
+    ]
   },
   {
     "openDate": "2007-04-01",
@@ -1232,16 +2235,55 @@
     "nodalMinistryName": "Ministry of Agriculture & Farmers Welfare",
     "schemeName": "Rashtriya Krishi Vikas Yojana (RKVY)",
     "schemeShortTitle": "RKVY",
-    "tags": ["agriculture", "investment", "productivity"],
+    "tags": [
+      "agriculture",
+      "investment",
+      "productivity"
+    ],
     "level": "Central",
-    "schemeCategory": ["Agriculture"],
-    "references": [{"title": "RKVY", "url": "https://rkvy.nic.in/"}],
+    "schemeCategory": [
+      "Agriculture"
+    ],
+    "references": [
+      {
+        "title": "RKVY",
+        "url": "https://rkvy.da.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Supports state-level agricultural development activities to boost farmer incomes and agricultural productivity.",
-    "applicationProcess": [{"step": 1, "instruction": "State governments prepare project proposals"}, {"step": 2, "instruction": "Central approval and fund release for projects"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State governments prepare project proposals and applications; details and RKVY guidelines are on the RKVY portal: https://rkvy.da.gov.in/ or the Department of Agriculture & Farmers Welfare pages."
+      },
+      {
+        "step": 2,
+        "instruction": "Central approval and fund release for selected projects; farmers/entrepreneurs apply to state agriculture departments / relevant state DBT/Agri portals as per state procedures."
+      }
+    ],
     "eligibilityDescription_md": "Projects implemented by state agriculture departments and allied bodies as per guidelines.",
-    "benefits": [{"name": "Project funding", "details": "Central funding support for identified projects"}],
-    "faqs": [{"question": "Who benefits?", "answer": "Farmers and agri-communities via state projects"}],
-    "documents_required": [{"name": "Project proposals", "url": ""}]
+    "benefits": [
+      {
+        "name": "Project funding",
+        "details": "Central funding support for identified projects, infrastructure, technology adoption and value chain improvements implemented via state agriculture departments."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who benefits?",
+        "answer": "Farmers and agri-communities via state projects; project sponsors (state agencies, FPOs, cooperatives) depending on component."
+      },
+      {
+        "question": "Where to apply?",
+        "answer": "Application goes through state agriculture department portals — central information at https://rkvy.da.gov.in/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Project proposals",
+        "url": "https://rkvy.da.gov.in/ (RKVY guidelines and formats for project proposals)"
+      }
+    ]
   },
   {
     "openDate": "2014-09-15",
@@ -1250,16 +2292,55 @@
     "nodalMinistryName": "Ministry of AYUSH",
     "schemeName": "National AYUSH Mission",
     "schemeShortTitle": "NAM",
-    "tags": ["AYUSH", "traditional-medicine", "health"],
+    "tags": [
+      "AYUSH",
+      "traditional-medicine",
+      "health"
+    ],
     "level": "Central",
-    "schemeCategory": ["Health"],
-    "references": [{"title": "National AYUSH Mission", "url": "https://main.ayush.gov.in/"}],
+    "schemeCategory": [
+      "Health"
+    ],
+    "references": [
+      {
+        "title": "National AYUSH Mission",
+        "url": "https://main.ayush.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Promotes ayurveda, yoga, naturopathy, unani, siddha and homoeopathy systems of medicine via infrastructure and services.",
-    "applicationProcess": [{"step": 1, "instruction": "State AYUSH cells submit proposals"}, {"step": 2, "instruction": "Implementing of outreach and facility strengthening activities"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State AYUSH cells submit proposals and NGOs/practitioners apply for grants via the AYUSH/ NAM portals or state AYUSH websites; central portal and NGO portal: https://namayush.gov.in/ and https://ngo.ayush.gov.in/ (for NGO proposals)."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation and release of grants as per guidelines; practitioners/facilities register with State AYUSH authorities per state rules."
+      }
+    ],
     "eligibilityDescription_md": "Public and practitioners in AYUSH systems benefit through strengthened services and infrastructure.",
-    "benefits": [{"name": "Strengthened AYUSH facilities", "details": "Infrastructure and trained personnel for traditional medicine services"}],
-    "faqs": [{"question": "What does AYUSH cover?", "answer": "Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy"}],
-    "documents_required": [{"name": "Facility proposals/registrations", "url": ""}]
+    "benefits": [
+      {
+        "name": "Strengthened AYUSH facilities",
+        "details": "Infrastructure support, training, outreach and service delivery improvements for AYUSH practitioners and health centres."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What does AYUSH cover?",
+        "answer": "Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy. See NAM portal: https://namayush.gov.in/."
+      },
+      {
+        "question": "How do NGOs apply for NAM grants?",
+        "answer": "Use the AYUSH NGO portal: https://ngo.ayush.gov.in/ for scheme-specific application processes and templates."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Facility proposals/registrations",
+        "url": "https://namayush.gov.in/ (operational guidelines and formats for proposals)"
+      }
+    ]
   },
   {
     "openDate": "2014-11-16",
@@ -1268,16 +2349,55 @@
     "nodalMinistryName": "Ministry of Women and Child Development",
     "schemeName": "Poshan Abhiyaan (National Nutrition Mission)",
     "schemeShortTitle": "POSHAN",
-    "tags": ["nutrition", "child-health", "maternal-health"],
+    "tags": [
+      "nutrition",
+      "child-health",
+      "maternal-health"
+    ],
     "level": "Central",
-    "schemeCategory": ["Nutrition"],
-    "references": [{"title": "Poshan Abhiyaan", "url": "https://poshanabhiyaan.gov.in/"}],
+    "schemeCategory": [
+      "Nutrition"
+    ],
+    "references": [
+      {
+        "title": "Poshan Abhiyaan",
+        "url": "https://poshanabhiyaan.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Aims to improve nutritional outcomes for children, pregnant women and lactating mothers through convergence and targeted interventions.",
-    "applicationProcess": [{"step": 1, "instruction": "States roll out interventions through Anganwadi and health systems"}, {"step": 2, "instruction": "Community mobilisation and targeted service delivery"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "States roll out interventions through Anganwadi and health systems. For program resources, Poshan Tracker and state links see https://poshanabhiyaan.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Community mobilisation and enrolment is done via Anganwadi centres — families contact local Anganwadi/ICDS officer for enrolment and services."
+      }
+    ],
     "eligibilityDescription_md": "Children and women in target groups identified by local health/ICDS records.",
-    "benefits": [{"name": "Nutrition interventions", "details": "Supplementary nutrition, growth monitoring, counselling"}],
-    "faqs": [{"question": "Who is covered?", "answer": "Pregnant women, lactating mothers and children in target age groups"}],
-    "documents_required": [{"name": "Health/Anganwadi records", "url": ""}]
+    "benefits": [
+      {
+        "name": "Nutrition interventions",
+        "details": "Supplementary nutrition, growth monitoring, counseling, and community awareness to reduce malnutrition and improve maternal-child health."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is covered?",
+        "answer": "Pregnant women, lactating mothers and children in target age groups; contact your local Anganwadi centre for registration."
+      },
+      {
+        "question": "How are beneficiaries identified?",
+        "answer": "Local health/ICDS records and community screening using Poshan Tracker; state ICDS/Anganwadi lists."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Health/Anganwadi records",
+        "url": "https://poshanabhiyaan.gov.in/ (guidance & tools; local Anganwadi maintains records)"
+      }
+    ]
   },
   {
     "openDate": "2020-06-01",
@@ -1286,16 +2406,59 @@
     "nodalMinistryName": "Ministry of Housing and Urban Affairs",
     "schemeName": "PM SVANidhi (PM Street Vendor’s AtmaNirbhar Nidhi)",
     "schemeShortTitle": "PM-SVANidhi",
-    "tags": ["street-vendors", "microcredit", "urban"],
+    "tags": [
+      "street-vendors",
+      "microcredit",
+      "urban"
+    ],
     "level": "Central",
-    "schemeCategory": ["Microcredit"],
-    "references": [{"title": "PM-SVANidhi", "url": "https://pmsvanidhi.mohua.gov.in/"}],
+    "schemeCategory": [
+      "Microcredit"
+    ],
+    "references": [
+      {
+        "title": "PM-SVANidhi",
+        "url": "https://pmsvanidhi.mohua.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides affordable working capital loans to street vendors to restart livelihoods post-COVID disruptions.",
-    "applicationProcess": [{"step": 1, "instruction": "Street vendors register with local authorities and apply online or through CSCs"}, {"step": 2, "instruction": "Loan disbursal and digital transactions incentives"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Street vendors register with local authorities and apply online or through Common Service Centres (CSCs). Apply and register (portal & UMANG links): https://pmsvanidhi.mohua.gov.in/ or via UMANG/CSC."
+      },
+      {
+        "step": 2,
+        "instruction": "Loan disbursal happens through participating banks; tracking and status are on the PM-SVANidhi portal and vendor app (example: PM SVANidhi mobile app and portal)."
+      }
+    ],
     "eligibilityDescription_md": "Street vendors identified in the pre-pandemic lists or through municipal certification are eligible.",
-    "benefits": [{"name": "Working capital loans", "details": "Collateral-free microloans with incentives for digital transactions"}],
-    "faqs": [{"question": "Who can apply?", "answer": "Street vendors with municipal certification or eligible local lists"}],
-    "documents_required": [{"name": "Vendor ID/certification", "url": ""}, {"name": "Aadhaar", "url": ""}]
+    "benefits": [
+      {
+        "name": "Working capital loans",
+        "details": "Collateral-free microloans, digital transactions incentives and credit-linked benefits to restore businesses."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Street vendors with municipal certification or eligible local lists; apply via the PM-SVANidhi portal or CSC. See https://pmsvanidhi.mohua.gov.in/."
+      },
+      {
+        "question": "What documents are needed?",
+        "answer": "Vendor ID/certification, Aadhaar, bank account details—see portal for full checklist."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Vendor ID/certification",
+        "url": "https://pmsvanidhi.mohua.gov.in/ (portal lists required proof of vending / municipal certificate)"
+      },
+      {
+        "name": "Aadhaar",
+        "url": "https://uidai.gov.in/ (Aadhaar authentication for online registration)"
+      }
+    ]
   },
   {
     "openDate": "2017-06-01",
@@ -1304,16 +2467,55 @@
     "nodalMinistryName": "Ministry of Youth Affairs and Sports",
     "schemeName": "Khelo India",
     "schemeShortTitle": "KheloIndia",
-    "tags": ["sports", "youth", "development"],
+    "tags": [
+      "sports",
+      "youth",
+      "development"
+    ],
     "level": "Central",
-    "schemeCategory": ["Sports"],
-    "references": [{"title": "Khelo India", "url": "https://kheloindia.gov.in/"}],
+    "schemeCategory": [
+      "Sports"
+    ],
+    "references": [
+      {
+        "title": "Khelo India",
+        "url": "https://kheloindia.gov.in/"
+      }
+    ],
     "detailedDescription_md": "National programme to develop sporting talent at grassroots level and promote sports culture in the country.",
-    "applicationProcess": [{"step": 1, "instruction": "Talent identification and training through state and national centres"}, {"step": 2, "instruction": "Support for elite athlete development and competitions"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Talent identification and athlete/coach registration is done via Khelo India portals (NSRS / athlete dashboards). Register or get information: https://kheloindia.gov.in/ and NSRS: https://nsrs.kheloindia.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Selected athletes are supported through state/national centres; follow state sports bodies or Khelo India notifications for selection and scholarship applications."
+      }
+    ],
     "eligibilityDescription_md": "Young athletes identified through talent search and state-level trials are eligible for support.",
-    "benefits": [{"name": "Scholarships & training", "details": "Monetary support, coaching and infrastructure access"}],
-    "faqs": [{"question": "How to get selected?", "answer": "Through talent trials and state-nominated pathways"}],
-    "documents_required": [{"name": "Sports records/identification", "url": ""}]
+    "benefits": [
+      {
+        "name": "Scholarships & training",
+        "details": "Monetary support, coaching, access to infrastructure, equipment and competition exposure for identified athletes."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to get selected?",
+        "answer": "Through talent trials, school/college/state nominations and Khelo India talent identification programmes — see https://kheloindia.gov.in/ for events and registration."
+      },
+      {
+        "question": "Can coaches apply?",
+        "answer": "Yes, for certain coach-development and certification programmes; check Khelo India portal for coach registration details."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Sports records/identification",
+        "url": "https://kheloindia.gov.in/ (portal guidance on registration and required documents)"
+      }
+    ]
   },
   {
     "openDate": "2015-01-01",
@@ -1322,16 +2524,55 @@
     "nodalMinistryName": "Ministry of Commerce & Industry",
     "schemeName": "Make in India (manufacturing promotion)",
     "schemeShortTitle": "MakeInIndia",
-    "tags": ["manufacturing", "industry", "investment"],
+    "tags": [
+      "manufacturing",
+      "industry",
+      "investment"
+    ],
     "level": "Central",
-    "schemeCategory": ["Industry"],
-    "references": [{"title": "Make in India", "url": "https://www.makeinindia.com/"}],
+    "schemeCategory": [
+      "Industry"
+    ],
+    "references": [
+      {
+        "title": "Make in India",
+        "url": "https://www.makeinindia.com/"
+      }
+    ],
     "detailedDescription_md": "Programme to encourage manufacturing in India through investment promotion, ease of doing business and sectoral initiatives.",
-    "applicationProcess": [{"step": 1, "instruction": "Investors register and follow sectoral procedures"}, {"step": 2, "instruction": "Apply for benefits and clearances through portals"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Investors use Invest India and Make in India portals for facilitation; investor desk & support: https://www.makeinindia.com/ and https://www.investindia.gov.in/ (registration/contact forms available)."
+      },
+      {
+        "step": 2,
+        "instruction": "Follow sector-specific procedures (land, approvals) via Invest India facilitation / state investment portals linked from Make in India."
+      }
+    ],
     "eligibilityDescription_md": "Businesses and investors in eligible manufacturing sectors can participate as per guidelines.",
-    "benefits": [{"name": "Investment facilitation", "details": "Support for land, approvals and sector-specific incentives"}],
-    "faqs": [{"question": "Who benefits?", "answer": "Manufacturers, investors and allied service providers"}],
-    "documents_required": [{"name": "Company registration", "url": ""}]
+    "benefits": [
+      {
+        "name": "Investment facilitation",
+        "details": "Support for approvals, investor facilitation, sector-specific incentives and handholding through Invest India."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who benefits?",
+        "answer": "Manufacturers, investors and allied service providers; Invest India helps with facilitation and single-window support."
+      },
+      {
+        "question": "How to connect with state incentives?",
+        "answer": "Use Make in India / Invest India to find state incentive pages and contact the investor facilitation desk."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Company registration",
+        "url": "https://www.investindia.gov.in/ (investor facilitation links and application forms)"
+      }
+    ]
   },
   {
     "openDate": "2016-11-15",
@@ -1340,16 +2581,55 @@
     "nodalMinistryName": "Ministry of Rural Development",
     "schemeName": "Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM)",
     "schemeShortTitle": "NRLM",
-    "tags": ["livelihoods", "women", "SHG"],
+    "tags": [
+      "livelihoods",
+      "women",
+      "SHG"
+    ],
     "level": "Central",
-    "schemeCategory": ["Livelihoods"],
-    "references": [{"title": "NRLM", "url": "https://nrlm.gov.in/"}],
+    "schemeCategory": [
+      "Livelihoods"
+    ],
+    "references": [
+      {
+        "title": "NRLM",
+        "url": "https://nrlm.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Aims to mobilize rural poor into self-help groups and provide livelihood support and financial inclusion.",
-    "applicationProcess": [{"step": 1, "instruction": "Community mobilization and SHG formation by field teams"}, {"step": 2, "instruction": "Access to credit, training and market linkages"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Community mobilization and SHG formation is done by field teams; individuals can register or get details via NRLM/Aajeevika portals. Register or find membership info: https://aajeevika.gov.in/en/member/register or https://nrlm.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Access to credit, training and market linkages is facilitated by state NHLM/NRLM teams and partner banks—contact local NRLM office (links on portal)."
+      }
+    ],
     "eligibilityDescription_md": "Rural poor households are targeted for inclusion in SHGs and livelihood activities.",
-    "benefits": [{"name": "Livelihood support", "details": "Credit linkages, skill training and market access"}],
-    "faqs": [{"question": "Who can join?", "answer": "Rural poor households through community processes"}],
-    "documents_required": [{"name": "Household details/ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Livelihood support",
+        "details": "Credit linkages, skill training, market access, social mobilisation and enterprise development through SHGs and federations."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can join?",
+        "answer": "Rural poor households — usually women — are mobilised into SHGs; registration/help available via local NRLM/Aajeevika offices."
+      },
+      {
+        "question": "How to register as a member?",
+        "answer": "Contact your local NRLM/Aajeevika field team or register on the Aajeevika/NRLM portal (links on https://nrlm.gov.in/)."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Household details/ID",
+        "url": "https://nrlm.gov.in/ (state NRLM offices list documents; typically Aadhaar, address proof and household details)"
+      }
+    ]
   },
   {
     "openDate": "2017-05-01",
@@ -1358,16 +2638,55 @@
     "nodalMinistryName": "Ministry of Fisheries, Animal Husbandry & Dairying",
     "schemeName": "Blue Revolution (National Fisheries Development)",
     "schemeShortTitle": "BlueRevolution",
-    "tags": ["fisheries", "aquaculture", "livelihood"],
+    "tags": [
+      "fisheries",
+      "aquaculture",
+      "livelihood"
+    ],
     "level": "Central",
-    "schemeCategory": ["Fisheries"],
-    "references": [{"title": "Blue Revolution", "url": "https://dof.gov.in/"}],
+    "schemeCategory": [
+      "Fisheries"
+    ],
+    "references": [
+      {
+        "title": "Blue Revolution",
+        "url": "https://dof.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Focuses on sustainable development of fisheries, aquaculture and allied sectors to boost incomes and production.",
-    "applicationProcess": [{"step": 1, "instruction": "State fisheries departments submit project plans"}, {"step": 2, "instruction": "Implementation support and subsidies for infrastructure"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State fisheries departments submit project plans; fisheries entrepreneurs and fishers contact state fisheries or NFDB. Central info: https://dof.gov.in/ and NFDB/PMMSY portals for applicable project applications."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation support/subsidies are administered by state nodal agencies — apply via state fisheries department portals or NFDB schemes."
+      }
+    ],
     "eligibilityDescription_md": "Fisherfolk, fish farmers and allied entrepreneurs can avail support as per scheme norms.",
-    "benefits": [{"name": "Infrastructure support", "details": "Cold chains, hatcheries and processing units support"}],
-    "faqs": [{"question": "Who implements?", "answer": "State fisheries departments and central nodal agencies"}],
-    "documents_required": [{"name": "Fishing ID/boat registration", "url": ""}]
+    "benefits": [
+      {
+        "name": "Infrastructure support",
+        "details": "Cold chains, hatcheries, processing units, input subsidies, technical support and capacity building for fisheries value chain."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who implements?",
+        "answer": "State fisheries departments in coordination with central agencies such as NFDB and DoF (Department of Fisheries)."
+      },
+      {
+        "question": "How to apply for infrastructure subsidy?",
+        "answer": "Contact your State Fisheries Department or NFDB—central details are at https://dof.gov.in/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Fishing ID/boat registration",
+        "url": "https://dof.gov.in/ (state fisheries portals list necessary documents for subsidy/project applications)"
+      }
+    ]
   },
   {
     "openDate": "2014-10-15",
@@ -1376,16 +2695,55 @@
     "nodalMinistryName": "Ministry of New and Renewable Energy",
     "schemeName": "Solar Mission (Residential & Rooftop) - rooftop promotion",
     "schemeShortTitle": "RooftopSolar",
-    "tags": ["solar", "renewable", "rooftop"],
+    "tags": [
+      "solar",
+      "renewable",
+      "rooftop"
+    ],
     "level": "Central",
-    "schemeCategory": ["Energy"],
-    "references": [{"title": "Rooftop Solar", "url": "https://mnre.gov.in/"}],
+    "schemeCategory": [
+      "Energy"
+    ],
+    "references": [
+      {
+        "title": "Rooftop Solar",
+        "url": "https://mnre.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Encourages adoption of solar rooftop installations through subsidies and incentives for residential and commercial users.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply via state nodal agencies or DISCOM portals"}, {"step": 2, "instruction": "Technical inspection and subsidy/installation support"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply via your State Nodal Agency or DISCOM rooftop portal; national level rooftop portal (PM SURYA GHAR) and guidance: https://pmsuryaghar.gov.in/ or check your DISCOM portal (links on MNRE site: https://mnre.gov.in/)."
+      },
+      {
+        "step": 2,
+        "instruction": "Technical inspection by DISCOM-approved vendor and subsidy processing (where applicable) — vendor/DISCOM handles application details."
+      }
+    ],
     "eligibilityDescription_md": "Residential and institutional consumers as per subsidy norms and capacity limits.",
-    "benefits": [{"name": "Subsidy support", "details": "Capital subsidy or net-metering benefits as applicable"}],
-    "faqs": [{"question": "How to apply?", "answer": "Contact approved installers or state agencies"}],
-    "documents_required": [{"name": "Electricity bill and ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Subsidy support",
+        "details": "Central/state capital subsidy (where applicable), net-metering, reduced electricity bills and environmental benefits."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to apply?",
+        "answer": "Contact approved installers or use the national rooftop portal: https://pmsuryaghar.gov.in/; your local DISCOM portal has specific application forms and vendor lists."
+      },
+      {
+        "question": "What documents are needed?",
+        "answer": "Recent electricity bill, proof of identity, property ownership/No objection for rentals; see state DISCOM instructions."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Electricity bill and ID",
+        "url": "https://pmsuryaghar.gov.in/ (national rooftop portal and DISCOM links list required documents and process)"
+      }
+    ]
   },
   {
     "openDate": "2019-11-01",
@@ -1394,16 +2752,59 @@
     "nodalMinistryName": "Ministry of Finance",
     "schemeName": "Pradhan Mantri Kisan Maan-Dhan Yojana",
     "schemeShortTitle": "PM-KMY",
-    "tags": ["pension", "farmers", "social-security"],
+    "tags": [
+      "pension",
+      "farmers",
+      "social-security"
+    ],
     "level": "Central",
-    "schemeCategory": ["Social Security"],
-    "references": [{"title": "PM Kisan Maan-Dhan", "url": "https://pmkmy.gov.in/"}],
+    "schemeCategory": [
+      "Social Security"
+    ],
+    "references": [
+      {
+        "title": "PM Kisan Maan-Dhan",
+        "url": "https://pmkmy.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provident pension scheme for small and marginal farmers to provide a minimum assured pension on attaining 60 years of age.",
-    "applicationProcess": [{"step": 1, "instruction": "Farmers register through Common Service Centres or bank branches"}, {"step": 2, "instruction": "Regular contribution and auto-debit facility for pension corpus"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Farmers register through Common Service Centres (CSC) or bank branches. Official PM-KMY information and registration guidance: https://pmkmy.gov.in/ and CSC: https://csc.gov.in/pmkmy."
+      },
+      {
+        "step": 2,
+        "instruction": "Regular contribution is auto-debited; receipts and membership tracked via PM-KMY portal / CSC services."
+      }
+    ],
     "eligibilityDescription_md": "Small and marginal farmers within specified age criteria and landholding limits are eligible.",
-    "benefits": [{"name": "Guaranteed pension", "details": "Monthly pension after 60 years as per scheme rules"}],
-    "faqs": [{"question": "How to join?", "answer": "Register at designated centres with required documents"}],
-    "documents_required": [{"name": "Aadhaar", "url": ""}, {"name": "Landholding proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Guaranteed pension",
+        "details": "Monthly pension after 60 years as per scheme rules (subject to contribution and eligibility)."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to join?",
+        "answer": "Register at designated CSCs or bank branches; use the PM-KMY portal for details: https://pmkmy.gov.in/."
+      },
+      {
+        "question": "What documents are needed?",
+        "answer": "Aadhaar, proof of landholding and bank account for auto-debit; check PM-KMY or CSC guidance for exact checklist."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Aadhaar",
+        "url": "https://uidai.gov.in/"
+      },
+      {
+        "name": "Landholding proof",
+        "url": "https://pmkmy.gov.in/ (portal/CSC provides checklist for land proof documents)"
+      }
+    ]
   },
   {
     "openDate": "2015-09-15",
@@ -1412,16 +2813,55 @@
     "nodalMinistryName": "Ministry of Women and Child Development",
     "schemeName": "Mahila Shakti Kendra",
     "schemeShortTitle": "MSK",
-    "tags": ["women", "empowerment", "community"],
+    "tags": [
+      "women",
+      "empowerment",
+      "community"
+    ],
     "level": "Central",
-    "schemeCategory": ["Women Empowerment"],
-    "references": [{"title": "Mahila Shakti Kendra", "url": "https://wcd.nic.in/"}],
+    "schemeCategory": [
+      "Women Empowerment"
+    ],
+    "references": [
+      {
+        "title": "Mahila Shakti Kendra",
+        "url": "https://wcd.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Provides community-level convergence for empowering rural women through access to information, training and services.",
-    "applicationProcess": [{"step": 1, "instruction": "District level centres coordinate with state departments"}, {"step": 2, "instruction": "Community outreach and training programs"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "District level centres coordinate with state departments; for details contact local Mahila Shakti Kendra/district WCD office. Central WCD site: https://wcd.nic.in/ or Mission Shakti portals for state contact details."
+      },
+      {
+        "step": 2,
+        "instruction": "Community outreach and training programs are organised locally; registration is via district Kendra or outreach announcements."
+      }
+    ],
     "eligibilityDescription_md": "Rural women and SHG members are primary beneficiaries of the programmes under MSK.",
-    "benefits": [{"name": "Capacity building", "details": "Training and resource access for women entrepreneurship and rights"}],
-    "faqs": [{"question": "Where to access?", "answer": "District Mahila Shakti Kendra offices and outreach events"}],
-    "documents_required": [{"name": "Local registration details (if any)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Capacity building",
+        "details": "Training, resource access for entrepreneurship, digital literacy, rights awareness and linkages to schemes and services."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where to access?",
+        "answer": "District Mahila Shakti Kendra offices and outreach events; check state WCD or Mission Shakti portals for schedules and contacts."
+      },
+      {
+        "question": "Who can attend training?",
+        "answer": "Rural women, SHG members and nominated beneficiaries per Kendra/ district schedule."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Local registration details (if any)",
+        "url": "https://wcd.nic.in/ (state WCD pages list local Kendra contact & registration procedures)"
+      }
+    ]
   },
   {
     "openDate": "2014-08-15",
@@ -1430,16 +2870,54 @@
     "nodalMinistryName": "Ministry of Panchayati Raj",
     "schemeName": "Sansad Adarsh Gram Yojana (SAGY)",
     "schemeShortTitle": "SAGY",
-    "tags": ["rural-development", "model-villages"],
+    "tags": [
+      "rural-development",
+      "model-villages"
+    ],
     "level": "Central",
-    "schemeCategory": ["Rural Development"],
-    "references": [{"title": "SAGY", "url": "https://panchayat.gov.in/"}],
+    "schemeCategory": [
+      "Rural Development"
+    ],
+    "references": [
+      {
+        "title": "SAGY",
+        "url": "https://panchayat.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Incentivises MPs to develop model villages with better public services and infrastructure through convergence of schemes.",
-    "applicationProcess": [{"step": 1, "instruction": "Selection of adarsh gram by MPs and planning with local bodies"}, {"step": 2, "instruction": "Implementation using central and state schemes"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Selection of adarsh gram is done by MPs; guidance and VDP tools available at PMAGY/SAGY portals: https://panchayat.gov.in/ and https://pmagy.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation using central and state schemes via Gram Panchayats and district planning — citizens engage via Gram Sabha; there is no direct citizen application to 'apply' for SAGY."
+      }
+    ],
     "eligibilityDescription_md": "Selected villages under the programme receive focused developmental interventions.",
-    "benefits": [{"name": "Convergent development", "details": "Better access to services and infrastructure through coordinated plans"}],
-    "faqs": [{"question": "Who selects villages?", "answer": "Members of Parliament nominate and support selected villages"}],
-    "documents_required": [{"name": "Village development plans", "url": ""}]
+    "benefits": [
+      {
+        "name": "Convergent development",
+        "details": "Better access to services and infrastructure through coordinated plans and focused investments."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who selects villages?",
+        "answer": "Members of Parliament nominate and support selected Gram Panchayats; the scheme is implemented in partnership with state/ district/local bodies."
+      },
+      {
+        "question": "Can villagers apply?",
+        "answer": "Villages are nominated by MPs; villagers can participate in Gram Sabha and VDP preparation — see https://pmagy.gov.in/ for Village Development Plan tools."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Village development plans",
+        "url": "https://pmagy.gov.in/ (VDP templates/guidelines are on PMAGY site)"
+      }
+    ]
   },
   {
     "openDate": "2017-01-01",
@@ -1448,16 +2926,55 @@
     "nodalMinistryName": "Ministry of Commerce & Industry",
     "schemeName": "Services Exports from India Scheme (SEIS)",
     "schemeShortTitle": "SEIS",
-    "tags": ["exports", "services", "trade"],
+    "tags": [
+      "exports",
+      "services",
+      "trade"
+    ],
     "level": "Central",
-    "schemeCategory": ["Trade & Commerce"],
-    "references": [{"title": "SEIS", "url": "https://www.dgft.gov.in/"}],
+    "schemeCategory": [
+      "Trade & Commerce"
+    ],
+    "references": [
+      {
+        "title": "SEIS",
+        "url": "https://www.dgft.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Encourages service exporters from India by providing duty credit scrips for eligible services exports.",
-    "applicationProcess": [{"step": 1, "instruction": "Exporters apply for benefits through DGFT portal"}, {"step": 2, "instruction": "Scrip issuance and utilisation per trade rules"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Exporters apply for benefits through the DGFT portal (SEIS module). DGFT portal: https://www.dgft.gov.in/ — login to the DGFT portal and submit SEIS application as per user-help pdf: https://content.dgft.gov.in/Website/FAQs-SEIS_v1.3.pdf"
+      },
+      {
+        "step": 2,
+        "instruction": "Scrip issuance and utilisation happens via Regional Authorities and DGFT; follow DGFT user-help for steps and documentation."
+      }
+    ],
     "eligibilityDescription_md": "Service exporters eligible under notified service categories and performance criteria.",
-    "benefits": [{"name": "Duty credit scrips", "details": "Transferable scrips for customs duty concessions"}],
-    "faqs": [{"question": "Who can claim?", "answer": "Service exporters meeting notified criteria"}],
-    "documents_required": [{"name": "Export documentation", "url": ""}]
+    "benefits": [
+      {
+        "name": "Duty credit scrips",
+        "details": "Transferable scrips usable for duty payments—percentage varies by service category and policy period."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can claim?",
+        "answer": "Service exporters meeting notified criteria; apply once per fiscal year through DGFT SEIS module — see DGFT guidance: https://www.dgft.gov.in/."
+      },
+      {
+        "question": "What documents are needed?",
+        "answer": "Export documentation, invoices, IEC details and other supporting documents as listed in DGFT user-help for SEIS."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Export documentation",
+        "url": "https://www.dgft.gov.in/ (DGFT SEIS user-help and uploads detail required documents)"
+      }
+    ]
   },
   {
     "openDate": "2020-05-12",
@@ -1466,16 +2983,55 @@
     "nodalMinistryName": "Ministry of Micro, Small & Medium Enterprises",
     "schemeName": "Emergency Credit Line Guarantee Scheme (ECLGS)",
     "schemeShortTitle": "ECLGS",
-    "tags": ["covid-relief", "msme", "credit"],
+    "tags": [
+      "covid-relief",
+      "msme",
+      "credit"
+    ],
     "level": "Central",
-    "schemeCategory": ["Finance"],
-    "references": [{"title": "ECLGS", "url": "https://www.mohfw.gov.in/"}],
+    "schemeCategory": [
+      "Finance"
+    ],
+    "references": [
+      {
+        "title": "ECLGS",
+        "url": "https://financialservices.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides guaranteed, collateral-free loans to MSMEs affected by the COVID-19 pandemic to support liquidity.",
-    "applicationProcess": [{"step": 1, "instruction": "Eligible borrowers approach lending institutions for ECLGS support"}, {"step": 2, "instruction": "Loan appraisal and disbursal under guarantee scheme"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Eligible borrowers approach lending institutions (participating banks/NBFCs) for ECLGS support. Central scheme info and lists are on Ministry/NCGTC or bank pages (example NCGTC): https://www.ncgtc.in/en/product-details/ECLGS/Emergency-Credit-Line-Guarantee-Scheme-(ECLGS)."
+      },
+      {
+        "step": 2,
+        "instruction": "Loan appraisal and disbursal under guarantee scheme is done by the lending bank/NBFC; contact your bank's MSME desk for application procedures."
+      }
+    ],
     "eligibilityDescription_md": "MSMEs with defined turnover/loan limits as per scheme circulars are eligible for ECLGS benefits.",
-    "benefits": [{"name": "Guaranteed credit", "details": "Working capital and term loans with government guarantee"}],
-    "faqs": [{"question": "How to apply?", "answer": "Apply through banks/NBFCs providing ECLGS-eligible loans"}],
-    "documents_required": [{"name": "Company/KYC documents", "url": ""}]
+    "benefits": [
+      {
+        "name": "Guaranteed credit",
+        "details": "Working capital and term loans with government guarantee to ease liquidity pressure for eligible MSMEs."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to apply?",
+        "answer": "Approach your lending bank/NBFC; banks follow ECLGS operational circulars and application forms available with them or NCGTC notices."
+      },
+      {
+        "question": "Is collateral required?",
+        "answer": "ECLGS is designed to provide collateral-free additional credit under specified terms; banks/Nodal agencies will confirm specifics."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Company/KYC documents",
+        "url": "https://financialservices.gov.in/ or your lending bank's ECLGS page for specific document checklist (usually KYC, financial statements, Udyam/ MSME registration where applicable)."
+      }
+    ]
   },
   {
     "openDate": "2016-07-01",
@@ -1484,16 +3040,55 @@
     "nodalMinistryName": "Ministry of Agriculture & Farmers Welfare",
     "schemeName": "Kisan Credit Card (KCC)",
     "schemeShortTitle": "KCC",
-    "tags": ["credit", "farmers", "agriculture"],
+    "tags": [
+      "credit",
+      "farmers",
+      "agriculture"
+    ],
     "level": "Central",
-    "schemeCategory": ["Agriculture Finance"],
-    "references": [{"title": "KCC", "url": "https://kisancreditcard.gov.in/"}],
+    "schemeCategory": [
+      "Agriculture Finance"
+    ],
+    "references": [
+      {
+        "title": "KCC",
+        "url": "https://kisancreditcard.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Provides short-term credit support to farmers for cultivation and allied activities at reasonable rates of interest.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply at bank branches with land/identity proof"}, {"step": 2, "instruction": "Sanction and issuance of KCC with prescribed limits"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply at bank branches (public/private/agri banks) with land/identity proof; some banks support online KCC application forms. Central information: https://kisancreditcard.gov.in/ and banks' agri banking pages (eg. SBI: https://sbi.co.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card)."
+      },
+      {
+        "step": 2,
+        "instruction": "Sanction and issuance of KCC is done by bank after verification and credit appraisal."
+      }
+    ],
     "eligibilityDescription_md": "Farmers, tenant farmers and other eligible cultivators as per bank norms can apply for KCC.",
-    "benefits": [{"name": "Credit facility", "details": "Flexible credit limits and crop cycle linked loans"}],
-    "faqs": [{"question": "Who is eligible?", "answer": "Farmers with adequate land records and income evidence"}],
-    "documents_required": [{"name": "Land records/ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Credit facility",
+        "details": "Flexible credit limits, crop cycle linked loans, and concessionary interest rates for agricultural needs."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible?",
+        "answer": "Farmers with adequate land records and proof of cultivation; tenant farmers and sharecroppers may be eligible per bank norms—check KCC portal and bank guidance."
+      },
+      {
+        "question": "Where to apply?",
+        "answer": "Apply at your bank branch or through the bank's online agricultural loan service; KisanCreditCard portal provides links and guidelines."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Land records/ID",
+        "url": "https://kisancreditcard.gov.in/ and bank-specific KCC application forms (typically land record copy, Aadhaar, identity and bank account details)"
+      }
+    ]
   },
   {
     "openDate": "2019-09-27",
@@ -1502,16 +3097,55 @@
     "nodalMinistryName": "State Government",
     "schemeName": "Rythu Bandhu (Telangana - Farmer Investment Support Scheme)",
     "schemeShortTitle": "RythuBandhu",
-    "tags": ["farmers", "investment", "state-scheme"],
+    "tags": [
+      "farmers",
+      "investment",
+      "state-scheme"
+    ],
     "level": "State",
-    "schemeCategory": ["Agriculture"],
-    "references": [{"title": "Rythu Bandhu", "url": "https://telangana.gov.in/"}],
+    "schemeCategory": [
+      "Agriculture"
+    ],
+    "references": [
+      {
+        "title": "Rythu Bandhu",
+        "url": "https://telangana.gov.in/"
+      }
+    ],
     "detailedDescription_md": "State-level investment support scheme providing a per-acre grant to farmers to cover investment needs for crops.",
-    "applicationProcess": [{"step": 1, "instruction": "Farmers register with state agriculture department"}, {"step": 2, "instruction": "Verification and periodic grant disbursal"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Farmers register with the State Agriculture Department / District authorities; Telangana government scheme information and portal: https://rythubandhu.telangana.gov.in/ or state agriculture portal."
+      },
+      {
+        "step": 2,
+        "instruction": "Verification by revenue/agriculture officers and periodic grant disbursal via DBT to beneficiary accounts."
+      }
+    ],
     "eligibilityDescription_md": "Landholding farmers registered with state records are eligible as per Telangana guidelines.",
-    "benefits": [{"name": "Per-acre grant", "details": "Direct grant to farmer families per acre per season"}],
-    "faqs": [{"question": "Who is eligible?", "answer": "Landowners as per state land records"}],
-    "documents_required": [{"name": "Land records", "url": ""}]
+    "benefits": [
+      {
+        "name": "Per-acre grant",
+        "details": "Direct grant (per-acre) to eligible farmer families each season for investment in crops (amount as per state rules)."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who is eligible?",
+        "answer": "Landowners listed in Telangana land records; tenant farmers may have different eligibility — consult state portal."
+      },
+      {
+        "question": "How to check payment status?",
+        "answer": "Use the Telangana scheme portal or district agriculture office; links on https://telangana.gov.in/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Land records",
+        "url": "https://rythubandhu.telangana.gov.in/ (state portal or district revenue records required for verification)"
+      }
+    ]
   },
   {
     "openDate": "2016-10-02",
@@ -1520,16 +3154,55 @@
     "nodalMinistryName": "Ministry of Road Transport & Highways",
     "schemeName": "Bharatmala Pariyojana (Roads & Highways)",
     "schemeShortTitle": "Bharatmala",
-    "tags": ["roads", "logistics", "infrastructure"],
+    "tags": [
+      "roads",
+      "logistics",
+      "infrastructure"
+    ],
     "level": "Central",
-    "schemeCategory": ["Infrastructure"],
-    "references": [{"title": "Bharatmala", "url": "https://morth.nic.in/"}],
+    "schemeCategory": [
+      "Infrastructure"
+    ],
+    "references": [
+      {
+        "title": "Bharatmala",
+        "url": "https://morth.nic.in/"
+      }
+    ],
     "detailedDescription_md": "National highways development programme to improve road networks for efficient movement of goods and people.",
-    "applicationProcess": [{"step": 1, "instruction": "Project identification by central/state agencies"}, {"step": 2, "instruction": "Tenders and construction through allocated agencies"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Project identification and tendering is done by MoRTH/state agencies. For programme details, tender notices and documents visit https://morth.nic.in/ and MoRTH tender portals."
+      },
+      {
+        "step": 2,
+        "instruction": "Tenders and construction administered through allocated agencies — contractors bid via official e-procurement/eTender portals linked from MoRTH site."
+      }
+    ],
     "eligibilityDescription_md": "Projects are selected based on strategic and economic significance as per programme guidelines.",
-    "benefits": [{"name": "Improved connectivity", "details": "Reduced travel time and logistics cost"}],
-    "faqs": [{"question": "How are projects selected?", "answer": "Based on prioritisation and strategic corridors"}],
-    "documents_required": [{"name": "Project DPRs and approvals", "url": ""}]
+    "benefits": [
+      {
+        "name": "Improved connectivity",
+        "details": "Reduced travel time, logistics cost and better national connectivity for trade and transport."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How are projects selected?",
+        "answer": "Based on prioritisation of strategic economic corridors, freight movement data and implementation feasibility as per MoRTH guidelines."
+      },
+      {
+        "question": "How to participate in tenders?",
+        "answer": "Contractors follow MoRTH/e-procurement portals for tender notices and bid instructions: https://morth.nic.in/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Project DPRs and approvals",
+        "url": "https://morth.nic.in/ (DPR and approval formats and submission guidance)"
+      }
+    ]
   },
   {
     "openDate": "2018-04-01",
@@ -1538,16 +3211,55 @@
     "nodalMinistryName": "Ministry of Commerce & Industry",
     "schemeName": "PM Vishwakarma Yojana (Skill & Self Employment for traditional artisans)",
     "schemeShortTitle": "PM-Vishwakarma",
-    "tags": ["artisan", "skills", "self-employment"],
+    "tags": [
+      "artisan",
+      "skills",
+      "self-employment"
+    ],
     "level": "Central",
-    "schemeCategory": ["Artisan Welfare"],
-    "references": [{"title": "Vishwakarma", "url": "https://coirboard.gov.in/"}],
+    "schemeCategory": [
+      "Artisan Welfare"
+    ],
+    "references": [
+      {
+        "title": "Vishwakarma",
+        "url": "https://pmvishwakarma.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Supports traditional artisans and craftspeople with skill upgradation, credit and marketing support.",
-    "applicationProcess": [{"step": 1, "instruction": "Registration of artisans with implementing agencies"}, {"step": 2, "instruction": "Access to training, credit and market linkages"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Registration of artisans is done on the PM Vishwakarma portal (CSCs also help with registration). Register: https://pmvishwakarma.gov.in/ or via CSCs."
+      },
+      {
+        "step": 2,
+        "instruction": "Access training, credit and market linkages through the scheme's DPA/lending partners; follow portal instructions for loans/benefits."
+      }
+    ],
     "eligibilityDescription_md": "Traditional artisans and master-craftspeople recognised under local or national lists are eligible.",
-    "benefits": [{"name": "Training & credit", "details": "Skill development and facilitation of starter credit"}],
-    "faqs": [{"question": "Who qualifies?", "answer": "Registered traditional artisans"}],
-    "documents_required": [{"name": "Artisan registration/ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Training & credit",
+        "details": "Skill development, registration, starter credit facilitation and market linkages for traditional artisans."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who qualifies?",
+        "answer": "Registered traditional artisans in listed trades; registration is via portal or CSC — see https://pmvishwakarma.gov.in/."
+      },
+      {
+        "question": "How to get credit/training?",
+        "answer": "After registration, the portal lists training events and lending partner channels for credit facilitation."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Artisan registration/ID",
+        "url": "https://pmvishwakarma.gov.in/Home/HowToRegister (portal guidance and Aadhaar-based registration via CSCs)"
+      }
+    ]
   },
   {
     "openDate": "2013-03-01",
@@ -1556,16 +3268,55 @@
     "nodalMinistryName": "Ministry of Rural Development",
     "schemeName": "Pradhan Mantri Adarsh Gram Yojana (PMAGY)",
     "schemeShortTitle": "PMAGY",
-    "tags": ["rural", "SC", "development"],
+    "tags": [
+      "rural",
+      "SC",
+      "development"
+    ],
     "level": "Central",
-    "schemeCategory": ["Rural Development"],
-    "references": [{"title": "PMAGY", "url": "https://panchayat.gov.in/"}],
+    "schemeCategory": [
+      "Rural Development"
+    ],
+    "references": [
+      {
+        "title": "PMAGY",
+        "url": "https://pmagy.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Focused development of villages with significant Scheduled Caste populations through convergence of schemes.",
-    "applicationProcess": [{"step": 1, "instruction": "Selection and integrated planning for identified villages"}, {"step": 2, "instruction": "Implementation through line departments"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Selection and integrated planning for identified villages is done via PMAGY portal and district authorities: https://pmagy.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation is through convergent line departments; village development planning tools are on PMAGY site and district nodal offices handle submissions."
+      }
+    ],
     "eligibilityDescription_md": "Villages with high SC population selected for integrated development activities.",
-    "benefits": [{"name": "Targeted development", "details": "Improved infrastructure and services via coordinated schemes"}],
-    "faqs": [{"question": "Which villages qualify?", "answer": "Villages with specified SC population and RPC eligibility"}],
-    "documents_required": [{"name": "Village development plans", "url": ""}]
+    "benefits": [
+      {
+        "name": "Targeted development",
+        "details": "Improved infrastructure and services via coordinated schemes for selected villages and beneficiary households."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which villages qualify?",
+        "answer": "Villages meeting criteria (SC population thresholds and other eligibility) — see PMAGY guidelines on https://pmagy.gov.in/."
+      },
+      {
+        "question": "Who implements village plans?",
+        "answer": "Line departments at district/state levels implement projects under coordinated Village Development Plans (VDPs)."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Village development plans",
+        "url": "https://pmagy.gov.in/ (VDP templates and submission instructions)"
+      }
+    ]
   },
   {
     "openDate": "2014-01-01",
@@ -1574,16 +3325,55 @@
     "nodalMinistryName": "Ministry of Women and Child Development",
     "schemeName": "National Creche Scheme",
     "schemeShortTitle": "CrecheScheme",
-    "tags": ["childcare", "women", "child-development"],
+    "tags": [
+      "childcare",
+      "women",
+      "child-development"
+    ],
     "level": "Central",
-    "schemeCategory": ["Childcare"],
-    "references": [{"title": "National Creche Scheme", "url": "https://wcd.nic.in/"}],
+    "schemeCategory": [
+      "Childcare"
+    ],
+    "references": [
+      {
+        "title": "National Creche Scheme",
+        "url": "https://wcd.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Provides daycare/crèche facilities for children of working mothers and caregivers at workplaces and community settings.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply through district WCD officers or implementing NGOs"}, {"step": 2, "instruction": "Registration and monitoring of crèche centres"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply through district WCD officers or implementing NGOs; central WCD guidance and state contacts: https://wcd.nic.in/ and Mission Shakti/Palna scheme pages where applicable."
+      },
+      {
+        "step": 2,
+        "instruction": "Registration and monitoring of crèche centres is handled by WCD/district authorities; submit required forms to district WCD office or online portal when available."
+      }
+    ],
     "eligibilityDescription_md": "Children of working mothers and caregivers in formal and informal sectors are eligible for enrolment in crèches.",
-    "benefits": [{"name": "Daycare services", "details": "Safe supervision, nutrition and early childhood stimulation"}],
-    "faqs": [{"question": "Who manages crèches?", "answer": "NGOs, community groups or implementing agencies under WCD"}],
-    "documents_required": [{"name": "Child’s birth proof/parent ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Daycare services",
+        "details": "Safe supervision, nutrition, early childhood stimulation and pre-school readiness support for young children."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who manages crèches?",
+        "answer": "NGOs, community groups or implementing agencies under WCD; state Mission Shakti/Palna pages provide local implementation details."
+      },
+      {
+        "question": "How to enroll a child?",
+        "answer": "Contact your local Anganwadi/ district WCD office or the registered creche provider for enrollment procedures."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Child’s birth proof/parent ID",
+        "url": "https://wcd.nic.in/ (National/ state WCD guidance lists required ID and birth proof for enrolment)"
+      }
+    ]
   },
   {
     "openDate": "2014-07-15",
@@ -1592,16 +3382,55 @@
     "nodalMinistryName": "Ministry of Social Justice & Empowerment",
     "schemeName": "National Backward Classes Finance & Development Corporation (NBCFDC) Schemes",
     "schemeShortTitle": "NBCFDC",
-    "tags": ["finance", "backward-classes", "loans"],
+    "tags": [
+      "finance",
+      "backward-classes",
+      "loans"
+    ],
     "level": "Central",
-    "schemeCategory": ["Social Welfare"],
-    "references": [{"title": "NBCFDC", "url": "https://nbcfdc.nic.in/"}],
+    "schemeCategory": [
+      "Social Welfare"
+    ],
+    "references": [
+      {
+        "title": "NBCFDC",
+        "url": "https://nbcfdc.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Financial assistance and skill development support for persons from backward classes for self-employment and income generation.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply through NBCFDC regional offices or partner banks"}, {"step": 2, "instruction": "Loan appraisal and sanction per guidelines"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply through NBCFDC regional offices or the online registration/loan portal on NBCFDC website: https://nbcfdc.nic.in/ (there is a 'How & Where to Apply' section with application links)."
+      },
+      {
+        "step": 2,
+        "instruction": "Loan appraisal and sanction happen through channel partners/partner banks per NBCFDC instructions."
+      }
+    ],
     "eligibilityDescription_md": "Beneficiaries from specified backward class categories are eligible as per scheme rules.",
-    "benefits": [{"name": "Subsidy & loans", "details": "Assistance for entrepreneurship, training and credit facilitation"}],
-    "faqs": [{"question": "How to apply?", "answer": "Contact NBCFDC or nodal partner banks"}],
-    "documents_required": [{"name": "Caste certificate and KYC", "url": ""}]
+    "benefits": [
+      {
+        "name": "Subsidy & loans",
+        "details": "Assistance for entrepreneurship, training and credit facilitation for eligible backward class beneficiaries."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to apply?",
+        "answer": "Contact NBCFDC regional office or apply via the NBCFDC website's application portal: https://nbcfdc.nic.in/."
+      },
+      {
+        "question": "What are common documents?",
+        "answer": "Caste certificate, ID, income certificate and KYC documents — NBCFDC site provides exact list by scheme."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Caste certificate and KYC",
+        "url": "https://nbcfdc.nic.in/ (application guidance and scheme-specific document checklist)"
+      }
+    ]
   },
   {
     "openDate": "2016-02-01",
@@ -1610,16 +3439,55 @@
     "nodalMinistryName": "Ministry of Road Transport & Highways",
     "schemeName": "FAME India (Faster Adoption and Manufacturing of EVs)",
     "schemeShortTitle": "FAME",
-    "tags": ["ev", "transport", "sustainability"],
+    "tags": [
+      "ev",
+      "transport",
+      "sustainability"
+    ],
     "level": "Central",
-    "schemeCategory": ["Transport & Environment"],
-    "references": [{"title": "FAME India", "url": "https://fameindia.gov.in/"}],
+    "schemeCategory": [
+      "Transport & Environment"
+    ],
+    "references": [
+      {
+        "title": "FAME India",
+        "url": "https://fameindia.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Promotes electric and hybrid vehicles through incentives for adoption and support for charging infrastructure.",
-    "applicationProcess": [{"step": 1, "instruction": "Buyers avail subsidies through authorised dealers"}, {"step": 2, "instruction": "Manufacturers apply for incentives through nodal agencies"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Buyers avail subsidies via authorised dealers; manufacturers/ dealers apply to the FAME portal. FAME Phase-II portal and buyer/dealer guidance: https://fame2.heavyindustries.gov.in/ or FAME India portal (vehicle subsidy is usually processed at point of sale by the dealer)."
+      },
+      {
+        "step": 2,
+        "instruction": "Manufacturers apply for incentives through nodal agencies/ portal — refer to operational guidelines on the FAME portal."
+      }
+    ],
     "eligibilityDescription_md": "Buyers of eligible categories of EVs and manufacturers implementing approved projects are eligible for incentives.",
-    "benefits": [{"name": "Subsidy on EVs", "details": "Lower upfront cost for specified EV categories"}],
-    "faqs": [{"question": "Which vehicles qualify?", "answer": "Specified categories like two-wheelers, three-wheelers, public transport buses"}],
-    "documents_required": [{"name": "Vehicle purchase documents/ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Subsidy on EVs",
+        "details": "Lower upfront cost for specified EV categories and support for public transport electrification and charging infrastructure."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which vehicles qualify?",
+        "answer": "Specified categories (two-wheelers, three-wheelers, buses, and select four-wheelers) as per FAME guidelines; check the FAME portal for eligible models."
+      },
+      {
+        "question": "How is subsidy applied?",
+        "answer": "Subsidy is typically passed at the point of sale by authorised dealers after verification — dealers/manufacturers coordinate with FAME nodal agency."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Vehicle purchase documents/ID",
+        "url": "https://fame2.heavyindustries.gov.in/ (dealer/manufacturer guidance and documents list)"
+      }
+    ]
   },
   {
     "openDate": "2016-06-01",
@@ -1628,16 +3496,54 @@
     "nodalMinistryName": "Ministry of Food Processing Industries",
     "schemeName": "Pradhan Mantri Kisan Sampada Yojana (PMKSY)",
     "schemeShortTitle": "PMKSY",
-    "tags": ["food-processing", "agri-value-chain"],
+    "tags": [
+      "food-processing",
+      "agri-value-chain"
+    ],
     "level": "Central",
-    "schemeCategory": ["Agri Processing"],
-    "references": [{"title": "PMKSY", "url": "https://mofpi.nic.in/"}],
+    "schemeCategory": [
+      "Agri Processing"
+    ],
+    "references": [
+      {
+        "title": "PMKSY",
+        "url": "https://mofpi.nic.in/"
+      }
+    ],
     "detailedDescription_md": "Supports creation of modern infrastructure for food processing linked to farmers and agri-produce value chains.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply for grants/assistance through MoFPI schemes"}, {"step": 2, "instruction": "Project appraisal and sanction"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply for grants/assistance through PMKSY / MoFPI scheme portal (project proposals/EOIs): https://sampada-mofpi.gov.in/ or MoFPI scheme pages."
+      },
+      {
+        "step": 2,
+        "instruction": "Submission of project proposal, appraisal and sanction via PMKSY portal and state nodal agencies as per scheme component."
+      }
+    ],
     "eligibilityDescription_md": "Agri-entrepreneurs, processors and farmer groups are eligible for support under specified components.",
-    "benefits": [{"name": "Capital grants", "details": "Assistance for cold chains, processing units and technology upgradation"}],
-    "faqs": [{"question": "Who can apply?", "answer": "Private processors, cooperatives and farmer groups"}],
-    "documents_required": [{"name": "Project proposal and KYC", "url": ""}]
+    "benefits": [
+      {
+        "name": "Capital grants",
+        "details": "Assistance for cold chains, processing units, technology upgradation and value chain projects to reduce post-harvest losses and increase value addition."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Private processors, cooperatives, FPOs and farmer groups; check PMKSY portal for component-specific eligibility."
+      },
+      {
+        "question": "Where to apply?",
+        "answer": "PMKSY portal: https://sampada-mofpi.gov.in/ (project application/EOI links on the portal)."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Project proposal and KYC",
+        "url": "https://sampada-mofpi.gov.in/ (portal lists application formats and required documents)"
+      }
+    ]
   },
   {
     "openDate": "2018-09-01",
@@ -1646,16 +3552,55 @@
     "nodalMinistryName": "Ministry of Environment, Forest and Climate Change",
     "schemeName": "National Clean Air Programme (NCAP)",
     "schemeShortTitle": "NCAP",
-    "tags": ["air-quality", "environment", "pollution-control"],
+    "tags": [
+      "air-quality",
+      "environment",
+      "pollution-control"
+    ],
     "level": "Central",
-    "schemeCategory": ["Environment"],
-    "references": [{"title": "NCAP", "url": "http://www.dpccair.com/"}],
+    "schemeCategory": [
+      "Environment"
+    ],
+    "references": [
+      {
+        "title": "NCAP",
+        "url": "http://www.dpccair.com/"
+      }
+    ],
     "detailedDescription_md": "A national strategy to reduce particulate pollution levels through city-specific action plans and monitoring.",
-    "applicationProcess": [{"step": 1, "instruction": "Cities prepare action plans and monitoring frameworks"}, {"step": 2, "instruction": "Implement mitigation measures with central/state support"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Cities prepare action plans and monitoring frameworks; for central guidance and PRANA/NCAP resources see CPCB/ MoEFCC pages and PRANA: https://prana.cpcb.gov.in/ and MoEFCC site."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation and funding are coordinated with State/ city CPCB and MoEFCC; city administrations and agencies submit plans per NCAP guidelines."
+      }
+    ],
     "eligibilityDescription_md": "Priority cities and urban areas identified for phased implementation as per NCAP guidelines.",
-    "benefits": [{"name": "Air quality improvement", "details": "Health benefits from reduced pollution and targeted interventions"}],
-    "faqs": [{"question": "Which cities are covered?", "answer": "Cities listed in NCAP priority list"}],
-    "documents_required": [{"name": "City action plans/monitoring reports", "url": ""}]
+    "benefits": [
+      {
+        "name": "Air quality improvement",
+        "details": "Health benefits from reduced pollution through source-targeted interventions and monitoring systems."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which cities are covered?",
+        "answer": "Cities listed in the NCAP priority list (non-attainment cities); check CPCB/NCAP portals for current list."
+      },
+      {
+        "question": "How to view city action plans?",
+        "answer": "PRANA and CPCB/ state pollution control board pages host action plans and progress reports: https://prana.cpcb.gov.in/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "City action plans/monitoring reports",
+        "url": "https://prana.cpcb.gov.in/ and MoEFCC site (city plan uploads and monitoring templates)"
+      }
+    ]
   },
   {
     "openDate": "2020-02-01",
@@ -1664,16 +3609,55 @@
     "nodalMinistryName": "Ministry of Education",
     "schemeName": "PM eVIDYA (One Nation One Digital Platform)",
     "schemeShortTitle": "PM-eVIDYA",
-    "tags": ["education", "edtech", "digital-learning"],
+    "tags": [
+      "education",
+      "edtech",
+      "digital-learning"
+    ],
     "level": "Central",
-    "schemeCategory": ["Education"],
-    "references": [{"title": "PM eVIDYA", "url": "https://www.education.gov.in/"}],
+    "schemeCategory": [
+      "Education"
+    ],
+    "references": [
+      {
+        "title": "PM eVIDYA",
+        "url": "https://www.education.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Unified digital platform to provide access to online and digital education resources across the country.",
-    "applicationProcess": [{"step": 1, "instruction": "Access learning resources through DIKSHA and other portals"}, {"step": 2, "instruction": "Enroll in digital classes as per school guidance"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Access learning resources through DIKSHA and related portals: https://pmevidya.education.gov.in/ and DIKSHA: https://diksha.gov.in/ (no conventional 'application' — platform access/registration via DIKSHA)."
+      },
+      {
+        "step": 2,
+        "instruction": "Enroll in digital classes as per school guidance or DIKSHA course registration — teachers/students follow school/state education board instructions."
+      }
+    ],
     "eligibilityDescription_md": "Students and teachers across schools and higher education institutions can access resources per guidelines.",
-    "benefits": [{"name": "Digital learning resources", "details": "Access to audio/video lessons, e-content and teacher training"}],
-    "faqs": [{"question": "Where to access?", "answer": "DIKSHA platform and other linked portals"}],
-    "documents_required": [{"name": "Student/teacher ID where applicable", "url": ""}]
+    "benefits": [
+      {
+        "name": "Digital learning resources",
+        "details": "Access to audio/video lessons, e-content, teacher training and multi-mode education delivery (TV, radio, online)."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where to access?",
+        "answer": "DIKSHA (https://diksha.gov.in/) and PM eVIDYA hub (https://pmevidya.education.gov.in/)."
+      },
+      {
+        "question": "Do I need to pay?",
+        "answer": "Most PM eVIDYA resources are free public digital resources; some courses may be through partner platforms with their own policies."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Student/teacher ID where applicable",
+        "url": "https://diksha.gov.in/ (DIKSHA registration and account guidance)"
+      }
+    ]
   },
   {
     "openDate": "2019-12-01",
@@ -1682,16 +3666,55 @@
     "nodalMinistryName": "Ministry of Food Processing Industries",
     "schemeName": "Pradhan Mantri Formalisation of Micro food processing Enterprises (PMFME)",
     "schemeShortTitle": "PMFME",
-    "tags": ["food-processing", "msme", "formalisation"],
+    "tags": [
+      "food-processing",
+      "msme",
+      "formalisation"
+    ],
     "level": "Central",
-    "schemeCategory": ["Food Processing"],
-    "references": [{"title": "PMFME", "url": "https://pmfme.mofpi.gov.in/"}],
+    "schemeCategory": [
+      "Food Processing"
+    ],
+    "references": [
+      {
+        "title": "PMFME",
+        "url": "https://pmfme.mofpi.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Supports micro food processing enterprises through credit, technology and market access interventions.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply through PMFME portal and state nodal agencies"}, {"step": 2, "instruction": "Receive cluster-level support and assistance"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply through the PMFME portal and state nodal agencies: https://pmfme.mofpi.gov.in/ (Use 'Apply Online' / Registration on the PMFME portal)."
+      },
+      {
+        "step": 2,
+        "instruction": "Cluster-level support and assistance is provided following appraisal; follow portal instructions for uploading documents and tracking status."
+      }
+    ],
     "eligibilityDescription_md": "Micro food processing units and entrepreneurs meeting scheme norms are eligible.",
-    "benefits": [{"name": "Credit-linked subsidy", "details": "Financial assistance and support for processing equipment"}],
-    "faqs": [{"question": "Who can apply?", "answer": "Micro food processors and entrepreneurs"}],
-    "documents_required": [{"name": "Business/KYC documents", "url": ""}]
+    "benefits": [
+      {
+        "name": "Credit-linked subsidy",
+        "details": "Financial assistance for equipment, capacity building, branding & marketing, and cluster support to formalize micro food processing units."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can apply?",
+        "answer": "Micro food processors, entrepreneurs, SHGs and FPOs as per scheme guidelines — apply on https://pmfme.mofpi.gov.in/."
+      },
+      {
+        "question": "What support is available?",
+        "answer": "Subsidies for machinery, credit linkage, technical support and market access under PMFME components."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Business/KYC documents",
+        "url": "https://pmfme.mofpi.gov.in/ (portal lists registration and document checklist)"
+      }
+    ]
   },
   {
     "openDate": "2018-09-01",
@@ -1700,16 +3723,55 @@
     "nodalMinistryName": "Ministry of Health & Family Welfare",
     "schemeName": "National Tobacco Control Programme (NTCP)",
     "schemeShortTitle": "NTCP",
-    "tags": ["health", "tobacco-control", "prevention"],
+    "tags": [
+      "health",
+      "tobacco-control",
+      "prevention"
+    ],
     "level": "Central",
-    "schemeCategory": ["Public Health"],
-    "references": [{"title": "NTCP", "url": "https://www.tobaccocontrol.org/"}],
+    "schemeCategory": [
+      "Public Health"
+    ],
+    "references": [
+      {
+        "title": "NTCP",
+        "url": "https://ntcp.mohfw.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Initiative to support tobacco control efforts including cessation services, awareness and enforcement of tobacco laws.",
-    "applicationProcess": [{"step": 1, "instruction": "States implement NTCP activities through health departments"}, {"step": 2, "instruction": "Set up cessation services and awareness campaigns"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "States implement NTCP activities through health departments. For cessation services, national quitline and NTCP resources: https://ntcp.mohfw.gov.in/ (toll-free quitline 1800-112-356 / missed call 011-22901701)."
+      },
+      {
+        "step": 2,
+        "instruction": "Set up cessation centers and awareness campaigns through district health authorities; citizens access services via district health facilities or call the national quitline."
+      }
+    ],
     "eligibilityDescription_md": "Public health programmes available to the general population through designated centres.",
-    "benefits": [{"name": "Cessation support", "details": "Services to help quit tobacco and reduce usage"}],
-    "faqs": [{"question": "Where to get help?", "answer": "Designated cessation clinics and helplines"}],
-    "documents_required": [{"name": "None (walk-in services)", "url": ""}]
+    "benefits": [
+      {
+        "name": "Cessation support",
+        "details": "Counselling, quitline services, awareness and enforcement support to reduce tobacco consumption."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Where to get help?",
+        "answer": "Designated cessation clinics, district health centers and national quitline (1800-112-356). See https://ntcp.mohfw.gov.in/ for more."
+      },
+      {
+        "question": "Is NTCP free?",
+        "answer": "Cessation counselling and many NTCP services are free; call the quitline or visit local health facilities for details."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "None (walk-in services)",
+        "url": "https://ntcp.mohfw.gov.in/ (NTCP guidance & cessation service contacts)"
+      }
+    ]
   },
   {
     "openDate": "2017-08-01",
@@ -1718,16 +3780,55 @@
     "nodalMinistryName": "Ministry of Minority Affairs",
     "schemeName": "Nai Roshni - Leadership Development of Minority Women",
     "schemeShortTitle": "NaiRoshni",
-    "tags": ["minorities", "women", "leadership"],
+    "tags": [
+      "minorities",
+      "women",
+      "leadership"
+    ],
     "level": "Central",
-    "schemeCategory": ["Minority Welfare"],
-    "references": [{"title": "Nai Roshni", "url": "https://minorityaffairs.gov.in/"}],
+    "schemeCategory": [
+      "Minority Welfare"
+    ],
+    "references": [
+      {
+        "title": "Nai Roshni",
+        "url": "https://minorityaffairs.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Empowers minority women through capacity building, leadership training, and exposure visits.",
-    "applicationProcess": [{"step": 1, "instruction": "Apply via implementing agencies and district offices"}, {"step": 2, "instruction": "Attend training and linkages for socio-economic empowerment"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Apply via implementing agencies and the Ministry of Minority Affairs Online Application Management System (OAMS); ministry page & OAMS link: https://minorityaffairs.gov.in/ (look for Nai Roshni / OAMS)."
+      },
+      {
+        "step": 2,
+        "instruction": "Attend training and linkages organised by nodal NGOs/implementing bodies after selection; follow ministry guidance for schedules and venue."
+      }
+    ],
     "eligibilityDescription_md": "Minority women selected through local nominations and programme criteria.",
-    "benefits": [{"name": "Training", "details": "Leadership and skill development programmes"}],
-    "faqs": [{"question": "Who can attend?", "answer": "Minority women nominated or applied as per scheme guidelines"}],
-    "documents_required": [{"name": "Minority certificate/ID", "url": ""}]
+    "benefits": [
+      {
+        "name": "Training",
+        "details": "Leadership, life skills, entrepreneurship and socio-economic empowerment training; exposure visits and networking."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who can attend?",
+        "answer": "Minority women nominated by implementing agencies or selected as per scheme guidelines; see Ministry page and OAMS for application windows."
+      },
+      {
+        "question": "How to apply?",
+        "answer": "Check the Ministry of Minority Affairs site and Nai Roshni OAMS link for application announcements: https://minorityaffairs.gov.in/."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Minority certificate/ID",
+        "url": "https://minorityaffairs.gov.in/ (scheme guidelines specify documents like minority certificate, ID, and nomination letters)"
+      }
+    ]
   },
   {
     "openDate": "2015-03-01",
@@ -1736,16 +3837,55 @@
     "nodalMinistryName": "Ministry of Power",
     "schemeName": "Ujjwal Discom Assurance Yojana (UDAY)",
     "schemeShortTitle": "UDAY",
-    "tags": ["power", "discom", "reform"],
+    "tags": [
+      "power",
+      "discom",
+      "reform"
+    ],
     "level": "Central",
-    "schemeCategory": ["Energy Reform"],
-    "references": [{"title": "UDAY", "url": "https://powermin.gov.in/"}],
+    "schemeCategory": [
+      "Energy Reform"
+    ],
+    "references": [
+      {
+        "title": "UDAY",
+        "url": "https://powermin.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Financial and operational turnaround programme for state power distribution companies (DISCOMs) through reforms and restructuring.",
-    "applicationProcess": [{"step": 1, "instruction": "State governments sign MoUs and implement reform measures"}, {"step": 2, "instruction": "Monitor progress and performance metrics"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "State governments sign MoUs and implement reform measures; information and MoUs are available on Ministry of Power pages: https://powermin.gov.in/ (UDAY section)."
+      },
+      {
+        "step": 2,
+        "instruction": "Monitoring and progress reports are published by Ministry of Power; participation is by state utilities (not individual application)."
+      }
+    ],
     "eligibilityDescription_md": "State DISCOMs and utilities participating through state government agreements are covered.",
-    "benefits": [{"name": "Financial restructuring", "details": "Reduction in losses and improved operational efficiencies"}],
-    "faqs": [{"question": "Who benefits?", "answer": "State utilities and consumers through improved supply"}],
-    "documents_required": [{"name": "MoUs and state action plans", "url": ""}]
+    "benefits": [
+      {
+        "name": "Financial restructuring",
+        "details": "Measures to reduce losses, improve operational efficiencies and long-term financial health of state DISCOMs; intended consumer benefit via improved supply reliability."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who benefits?",
+        "answer": "State utilities and indirectly consumers via improved power supply and financial stability; states must sign MoUs under UDAY."
+      },
+      {
+        "question": "Can an individual apply?",
+        "answer": "UDAY is an inter-governmental reform programme — individuals cannot apply; consumer-level benefits come through other state consumer schemes."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "MoUs and state action plans",
+        "url": "https://powermin.gov.in/ (UDAY documentation and state MoUs are published on the Ministry site)"
+      }
+    ]
   },
   {
     "openDate": "2019-03-01",
@@ -1754,16 +3894,55 @@
     "nodalMinistryName": "Ministry of Labour and Employment",
     "schemeName": "National Career Service (NCS)",
     "schemeShortTitle": "NCS",
-    "tags": ["employment", "career", "job"],
+    "tags": [
+      "employment",
+      "career",
+      "job"
+    ],
     "level": "Central",
-    "schemeCategory": ["Employment Services"],
-    "references": [{"title": "NCS", "url": "https://www.ncs.gov.in/"}],
+    "schemeCategory": [
+      "Employment Services"
+    ],
+    "references": [
+      {
+        "title": "NCS",
+        "url": "https://www.ncs.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Digital platform connecting job seekers with employers, career counselling, and skill mapping services.",
-    "applicationProcess": [{"step": 1, "instruction": "Register on NCS portal and create profile"}, {"step": 2, "instruction": "Search and apply to job listings or use counselling services"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Register on the NCS portal and create a profile: https://www.ncs.gov.in/ (sign up to search and apply to job listings)."
+      },
+      {
+        "step": 2,
+        "instruction": "Search and apply to government and private job listings or use counselling services on the portal; follow the NCS job application steps when applying to specific posts."
+      }
+    ],
     "eligibilityDescription_md": "Job seekers and employers can register and use the platform as per service terms.",
-    "benefits": [{"name": "Job matching", "details": "Access to government and private job opportunities and career guidance"}],
-    "faqs": [{"question": "How to register?", "answer": "Create an account on the NCS portal with necessary documents"}],
-    "documents_required": [{"name": "Resume/ID proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Job matching",
+        "details": "Access to government and private job opportunities, career guidance, skill mapping and counselling services."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How to register?",
+        "answer": "Create an account on NCS portal with necessary documents (resume, ID proof) — https://www.ncs.gov.in/."
+      },
+      {
+        "question": "Is there a fee?",
+        "answer": "Basic NCS services for jobseekers are free; check portal terms for details."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Resume/ID proof",
+        "url": "https://www.ncs.gov.in/ (portal registration and document upload guidelines)"
+      }
+    ]
   },
   {
     "openDate": "2016-01-01",
@@ -1772,16 +3951,55 @@
     "nodalMinistryName": "Ministry of Electronics & IT",
     "schemeName": "Common Service Centres (CSC) Scheme",
     "schemeShortTitle": "CSC",
-    "tags": ["digital", "access", "services"],
+    "tags": [
+      "digital",
+      "access",
+      "services"
+    ],
     "level": "Central",
-    "schemeCategory": ["Digital Inclusion"],
-    "references": [{"title": "CSC", "url": "https://csc.gov.in/"}],
+    "schemeCategory": [
+      "Digital Inclusion"
+    ],
+    "references": [
+      {
+        "title": "CSC",
+        "url": "https://csc.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Network of access points to deliver e-governance and digital services to citizens in rural and remote areas.",
-    "applicationProcess": [{"step": 1, "instruction": "Establish a CSC centre through registration and approvals"}, {"step": 2, "instruction": "Provide government and private digital services to citizens"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "Establish a CSC centre through registration and approvals — CSC registration portal and guidance: https://csc.gov.in/ (operator registration and KYC process available on the portal)."
+      },
+      {
+        "step": 2,
+        "instruction": "Provide government and private digital services to citizens through the CSC network after approvals and training."
+      }
+    ],
     "eligibilityDescription_md": "Entrepreneurs and service providers meeting CSC operator criteria can set up centres.",
-    "benefits": [{"name": "Access to services", "details": "Digital delivery of government services, payments and certificates"}],
-    "faqs": [{"question": "What services are available?", "answer": "A wide range including certificates, bills payment and schemes access"}],
-    "documents_required": [{"name": "Operator KYC and business proof", "url": ""}]
+    "benefits": [
+      {
+        "name": "Access to services",
+        "details": "Digital delivery of government services, payments, certificates and scheme access for rural citizens through a local CSC operator."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What services are available?",
+        "answer": "Wide range including certificates, bill payment, DBT enrolment, scheme registrations and more — see https://csc.gov.in/ for full list."
+      },
+      {
+        "question": "How to become a CSC operator?",
+        "answer": "Register on the official CSC portal and complete operator KYC/training as per portal instructions."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "Operator KYC and business proof",
+        "url": "https://csc.gov.in/ (registration, KYC and operator guidelines)"
+      }
+    ]
   },
   {
     "openDate": "2017-06-05",
@@ -1790,15 +4008,54 @@
     "nodalMinistryName": "Ministry of Housing and Urban Affairs",
     "schemeName": "Smart Cities Mission",
     "schemeShortTitle": "SmartCities",
-    "tags": ["urban", "infrastructure", "smart"],
+    "tags": [
+      "urban",
+      "infrastructure",
+      "smart"
+    ],
     "level": "Central",
-    "schemeCategory": ["Urban Development"],
-    "references": [{"title": "Smart Cities Mission", "url": "https://smartcities.gov.in/"}],
+    "schemeCategory": [
+      "Urban Development"
+    ],
+    "references": [
+      {
+        "title": "Smart Cities Mission",
+        "url": "https://smartcities.gov.in/"
+      }
+    ],
     "detailedDescription_md": "Urban renewal programme to develop smart solutions for urban infrastructure and services in selected cities.",
-    "applicationProcess": [{"step": 1, "instruction": "City challenge and selection process followed by project preparation"}, {"step": 2, "instruction": "Implementation of smart solutions through SPVs and partners"}],
+    "applicationProcess": [
+      {
+        "step": 1,
+        "instruction": "City challenge and selection are managed through central Smart Cities Mission calls; for city-level project details and submission templates see https://smartcities.gov.in/."
+      },
+      {
+        "step": 2,
+        "instruction": "Implementation of projects is through SPVs and partner agencies — citizens can engage with local municipal authorities for city-level programmes and participatory processes."
+      }
+    ],
     "eligibilityDescription_md": "Selected cities with approved city proposals receive funding and technical support for smart projects.",
-    "benefits": [{"name": "Urban upgrades", "details": "Improved services like mobility, water, waste and digital infrastructure"}],
-    "faqs": [{"question": "How are cities chosen?", "answer": "Competitive challenge and evaluation process"}],
-    "documents_required": [{"name": "City proposals and approvals", "url": ""}]
+    "benefits": [
+      {
+        "name": "Urban upgrades",
+        "details": "Improved mobility, water, waste management, digital infrastructure and enhanced urban services in selected cities."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How are cities chosen?",
+        "answer": "Competitive city challenge and evaluation process administered by the Smart Cities Mission; see portal for current list and selection criteria."
+      },
+      {
+        "question": "How can citizens participate?",
+        "answer": "Participate via local municipal consultations, Smart City SPV outreach and project-specific consultations listed on city dashboards (links on smartcities.gov.in)."
+      }
+    ],
+    "documents_required": [
+      {
+        "name": "City proposals and approvals",
+        "url": "https://smartcities.gov.in/ (city proposal templates, project documents and dashboards)"
+      }
+    ]
   }
 ]
