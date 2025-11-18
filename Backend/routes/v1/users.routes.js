@@ -6,6 +6,10 @@ const router = express.Router();
 
 router.post("/signup", signUp);
 router.post("/login", login);
+
+// refresh should accept POST with body { refreshToken }
+router.post("/refresh-access-token", refreshAccessToken);
+
 router.post("/logout", verifyJWT, logout);
 router.get("/refresh-access-token", refreshAccessToken);
 router.get("/getme", verifyJWT, getMe);

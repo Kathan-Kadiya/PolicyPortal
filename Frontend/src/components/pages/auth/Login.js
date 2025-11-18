@@ -65,46 +65,103 @@ const Login = () => {
     const navigate = useNavigate();
     const { setIsUserLoggedIn } = useContext(UserContext);
 
+    // const handleSubmit = async (event) => {
+    //     event.preventDefault();
+    //     setIsSubmitted(true);
+    //     setEmailError("");
+    //     setGeneralError("");
+    //     setError("");
+
+    //     if (!email) {
+    //         setEmailError("Email is required");
+    //         return;
+    //     }
+    //     if (!password) {
+    //         setError("Password is required");
+    //         return;
+    //     }
+
+    //     try {
+    //         const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+    //         const response = await axios.post(
+    //             `${BACKEND_URL}/api/v1/users/login`,
+    //             { email, password },
+    //             { withCredentials: true }
+    //         );
+    //         const data = response.data;
+    //         if (data.success) {
+    //             localStorage.setItem("accessToken", data.user.accessToken);
+    //             setIsUserLoggedIn(true); // Update login state
+    //             navigate("/");
+    //         } else {
+    //             setGeneralError(data.message);
+    //             console.log(data.message);
+    //         }
+    //     } catch (error) {
+    //         if (error.response && error.response.data) {
+    //             setError(error.response.data.message);
+    //         } else {
+    //             setError("An error occurred. Please try again.");
+    //         }
+    //     }
+    // };
+
     const handleSubmit = async (event) => {
-        event.preventDefault();
-        setIsSubmitted(true);
-        setEmailError("");
-        setGeneralError("");
-        setError("");
+    event.preventDefault();
+    setIsSubmitted(true);
+    setEmailError("");
+    setGeneralError("");
+    setError("");
 
-        if (!email) {
-            setEmailError("Email is required");
-            return;
-        }
-        if (!password) {
-            setError("Password is required");
-            return;
-        }
+    if (!email) {
+        setEmailError("Email is required");
+        return;
+    }
+    if (!password) {
+        setError("Password is required");
+        return;
+    }
 
-        try {
-            const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
-            const response = await axios.post(
-                `${BACKEND_URL}/api/v1/users/login`,
-                { email, password },
-                { withCredentials: true }
-            );
-            const data = response.data;
-            if (data.success) {
-                localStorage.setItem("accessToken", data.user.accessToken);
-                setIsUserLoggedIn(true); // Update login state
-                navigate("/");
-            } else {
-                setGeneralError(data.message);
-                console.log(data.message);
+    try {
+        const BACKEND_URL = process.env.REACT_APP_BACKEND_URL;
+        const response = await axios.post(
+            `${BACKEND_URL}/api/v1/users/login`,
+            { email, password },
+            { withCredentials: true } // fine to keep; tokens will also be returned in body
+        );
+
+        // Response shape (server controller): { success, user, data: { accessToken, refreshToken }, ... }
+        const body = response.data;
+
+        if (body.success) {
+            // store tokens in localStorage so axios instance can read them
+            const accessToken = body?.data?.accessToken || body?.user?.accessToken;
+            const refreshToken = body?.data?.refreshToken || null;
+
+            if (accessToken) {
+                localStorage.setItem("accessToken", accessToken);
             }
-        } catch (error) {
-            if (error.response && error.response.data) {
-                setError(error.response.data.message);
-            } else {
-                setError("An error occurred. Please try again.");
+            if (refreshToken) {
+                localStorage.setItem("refreshToken", refreshToken);
             }
+
+            // mark user as logged in in context and navigate
+            setIsUserLoggedIn(true);
+            navigate("/");
+        } else {
+            setGeneralError(body.message || "Login failed");
+            console.log("Login failed:", body);
         }
-    };
+    } catch (err) {
+        console.error("Login error:", err);
+        if (err.response && err.response.data) {
+            setError(err.response.data.message || "Login failed");
+        } else {
+            setError("An error occurred. Please try again.");
+        }
+    }
+};
+
 
     return (
         <ThemeProvider theme={theme}>
