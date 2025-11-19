@@ -28,27 +28,27 @@ apply.
 
 ## Tech Stack
 
--   **Frontend:** HTML, CSS, JavaScript, React.js\
--   **Backend:** Node.js, Express.js\
--   **Database:** MongoDB\
+-   **Frontend:** HTML, CSS, JavaScript, React.js
+-   **Backend:** Node.js, Express.js
+-   **Database:** MongoDB
 -   **Tools:** Git, GitHub, VS Code
 
 ------------------------------------------------------------------------
 
 ## Future Improvements
 
--   Add multilingual support and voice-based search\
--   Real-time updates on newly released schemes\
--   Scheme comparison tool\
+-   Add multilingual support and voice-based search
+-   Real-time updates on newly released schemes
+-   Scheme comparison tool
 -   Notification system
 
 ------------------------------------------------------------------------
 
 ## Authors
 
--   **Kathan Kadiya** --- 202201175\
--   **Mihir Prajapati** --- 202201210\
-    **Mentor:** Prof. Purbasha Das
+-   **Kathan Kadiya** --- 202201175
+-   **Mihir Prajapati** --- 202201210
+    **Mentor:** Prof. Purbasha Das
 
 ------------------------------------------------------------------------
 
