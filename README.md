@@ -48,7 +48,7 @@ apply.
 
 -   **Kathan Kadiya** --- 202201175
 -   **Mihir Prajapati** --- 202201210
-    **Mentor:** Prof. Purbasha Das
+-   **Mentor:** Prof. Purbasha Das
 
 ------------------------------------------------------------------------
 
